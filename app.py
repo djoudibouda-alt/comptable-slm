@@ -78,20 +78,11 @@ def find_answer(message):
     if not q:
         return "Posez une question sur la comptabilite algerienne."
     for kw, key in [
-        ("tva", "tva"),
-        ("sarl", "sarl"),
-        ("eurl", "sarl"),
-        ("scf", "scf"),
-        ("ecritur", "ecriture"),
-        ("comptabilis", "ecriture"),
-        ("achat", "ecriture"),
-        ("casnos", "casnos"),
-        ("ibs", "ibs"),
-        ("irg", "irg"),
-        ("societe", "droit"),
-        ("spa", "droit"),
-        ("snc", "droit"),
-        ("forme juridique", "droit"),
+        ("tva", "tva"), ("sarl", "sarl"), ("eurl", "sarl"),
+        ("scf", "scf"), ("ecritur", "ecriture"), ("comptabilis", "ecriture"),
+        ("achat", "ecriture"), ("casnos", "casnos"), ("ibs", "ibs"),
+        ("irg", "irg"), ("societe", "droit"), ("spa", "droit"),
+        ("snc", "droit"), ("forme juridique", "droit"),
     ]:
         if kw in q:
             return ANSWERS[key]
@@ -138,12 +129,10 @@ demo = gr.ChatInterface(
 )
 
 if __name__ == "__main__":
-    # Hugging Face Spaces detect
-    import os
-    if os.environ.get("SPACE_ID"):
-        demo.launch()
+    import os, socket
+    if os.environ.get("RENDER") or os.environ.get("SPACE_ID"):
+        demo.launch(server_name="0.0.0.0")
     else:
-        import socket
         port = 7860
         while True:
             try:
@@ -153,5 +142,4 @@ if __name__ == "__main__":
                 break
             except OSError:
                 port += 1
-        print(f"Port libre trouve : {port}")
         demo.launch(share=True, server_name="0.0.0.0", server_port=port)
