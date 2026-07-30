@@ -1,0 +1,159 @@
+# SYSTÈME COMPTABLE ET FINANCIER (SCF) ALGÉRIEN
+
+## Loi n° 07-11 du 25 novembre 2007 portant Système Comptable Financier
+
+### Texte officiel
+Journal Officiel de la République Algérienne N°74
+Loi n° 07-11 du 15 Dhou El Kaada 1428 correspondant au 25 novembre 2007 portant système comptable financier.
+
+### Objet de la loi
+Article 1er. La présente loi a pour objet de fixer le système comptable financier appelé ci-après comptabilité financière ainsi que les conditions et les modalités de son application.
+
+## CHAPITRE I - DEFINITIONS ET CHAMP D'APPLICATION
+
+### Art. 2 - Champ d'application
+Les dispositions de la présente loi s'appliquent à toute personne physique ou morale astreinte par voie légale ou réglementaire à la mise en place d'une comptabilité financière sous réserve des dispositions qui lui sont spécifiques.
+
+Les personnes morales soumises aux règles de la comptabilité publique sont exclues du champ d'application de cette loi.
+
+### Art. 3 - Définition de la comptabilité financière
+La comptabilité financière est un système d'organisation de l'information financière permettant de saisir, classer, évaluer, enregistrer des données de base chiffrées, et présenter des états reflétant une image fidèle de la situation financière et patrimoniale, de la performance et de la trésorerie de l'entité, à la fin de l'exercice.
+
+### Art. 4 - Entités soumises à la comptabilité financière
+Sont astreintes à la tenue d'une comptabilité financière les entités suivantes :
+- Les sociétés soumises aux dispositions du code de commerce
+- Les coopératives
+- Les personnes physiques ou morales produisant des biens ou des services marchands ou non marchands dans la mesure où elles exercent des activités économiques qui se fondent sur des actes répétitifs
+- Toutes autres personnes physiques ou morales qui y sont assujetties par voie légale ou réglementaire
+
+## CHAPITRE II - PRINCIPES FONDAMENTAUX
+
+### Principe de prudence
+Les comptes doivent être établis avec prudence. Les prudents et les bénéfices ne doivent pas être surévalués.
+
+### Principe de permanence des méthodes
+Les méthodes comptables doivent être appliquées de manière constante d'un exercice à l'autre.
+
+### Principe de sincérité
+Les comptes doivent être établis de bonne foi et donner une image fidèle du patrimoine, de la situation financière et du résultat de l'entité.
+
+### Principe de continuité d'exploitation
+Les états financiers sont établis dans l'hypothèse de la continuité d'exploitation, sauf si l'entité est en liquidation judiciaire.
+
+### Principe de non-compensation
+Les éléments actifs et passifs, les charges et les produits ne doivent pas être compensés dans les états financiers.
+
+### Principe de coût historique
+Les éléments sont évalués à leur coût historique, sauf exceptions prévues par la loi.
+
+### Principe de spécialisation des exercices
+Les charges et les produits sont imputés à l'exercice auquel ils se rapportent, indépendamment de la date de paiement ou d'encaissement.
+
+## CHAPITRE III - PLAN COMPTABLE
+
+### Structure du plan comptable
+Le plan comptable algérien comprend 9 classes de comptes :
+- Classe 1 : Comptes de financement permanent (capitaux propres, emprunts)
+- Classe 2 : Comptes d'actif immobilisé (immobilisations incorporelles, corporelles, financières)
+- Classe 3 : Comptes de stocks
+- Classe 4 : Comptes de tiers (fournisseurs, clients, état, personnel)
+- Classe 5 : Comptes de trésorerie (banques, caisse)
+- Classe 6 : Comptes de charges
+- Classe 7 : Comptes de produits
+- Classe 8 : Comptes de gestion (produits et charges de l'exercice)
+- Classe 9 : Comptes hors bilan
+
+### Numérotation des comptes
+Chaque compte est identifié par un code numérique à 3 chiffres minimum, extensible à 5 chiffres ou plus selon les besoins.
+
+## CHAPITRE IV - DOCUMENTS COMPTABLES
+
+### États financiers obligatoires
+Les entités doivent établir à la fin de chaque exercice :
+- Le bilan (situation financière et patrimoniale)
+- Le compte de résultat (performance)
+- L'état des flux de trésorerie
+- L'état des variations des capitaux propres
+- Les annexes aux états financiers
+
+### Durée de conservation
+Les documents comptables doivent être conservés pendant une durée minimum de 10 ans.
+
+## CHAPITRE V - EXERCICE COMPTABLE
+
+### Définition de l'exercice
+L'exercice comptable est la période à laquelle se rapportent les états financiers. Sa durée est de douze mois.
+
+### Clôture de l'exercice
+La clôture de l'exercice est effectuée le dernier jour de l'exercice comptable.
+
+### Inventaire
+Un inventaire doit être réalisé au moins une fois par an à la clôture de l'exercice.
+
+## CHAPITRE VI - ÉVALUATION DES ÉLÉMENTS
+
+### Évaluation des immobilisations
+Les immobilisations sont évaluées à leur coût d'acquisition ou de production, diminué des amortissements et des dépréciations.
+
+### Évaluation des stocks
+Les stocks sont évalués selon la méthode du coût d'entrée (FIFO ou CUMP).
+
+### Évaluation des créances
+Les créances sont évaluées à leur valeur nette comptable.
+
+## CHAPITRE VII - AMORTISSEMENTS
+
+### Définition des amortissements
+Les amortissements comptabilisent la dépréciation des immobilisations par l'usure, le temps ou l'obsolescence.
+
+### Méthodes d'amortissement
+Les méthodes d'amortissement autorisées sont :
+- L'amortissement linéaire
+- L'amortissement dégressif
+- L'amortissement par unités d'œuvre
+
+### Plan d'amortissement
+Le plan d'amortissement est établi lors de l'acquisition de l'immobilisation.
+
+## CHAPITRE VIII - PROVISIONS ET DÉPRÉCIATIONS
+
+### Provisions pour risques et charges
+Les provisions sont constituées pour faire face à des risques ou charges probablement futurs.
+
+### Dépréciations
+Les dépréciations constatent la perte de valeur d'un actif.
+
+## CHAPITRE IX - CONSOLIDATION DES COMPTES
+
+### Obligation de consolidation
+Les sociétés détenant une participation significative dans une autre société doivent établir des comptes consolidés.
+
+### Seuil de participation
+La participation significative est présumée lorsque la société détient directement ou indirectement 20% ou plus du capital d'une autre société.
+
+## CHAPITRE X - COMMISSAIRE AUX COMPTES
+
+### Nomination du commissaire aux comptes
+Les sociétés commerciales dont le chiffre d'affaires dépasse un certain seuil doivent nommer un commissaire aux comptes.
+
+### Missions du commissaire aux comptes
+Le commissaire aux comptes doit :
+- Vérifier la régularité et la sincérité des comptes
+- S'assurer de la conformité des états financiers aux règles comptables
+- Rédiger un rapport sur les comptes
+
+## CHAPITRE XI - SANCTIONS
+
+### Sanctions civiles
+Les personnes responsables de la tenue des comptes peuvent être poursuivies en justice pour les erreurs ou omissions commises.
+
+### Sanctions pénales
+Le fait de ne pas tenir de comptabilité ou de détruire les documents comptables est puni de peines d'emprisonnement et d'amendes.
+
+## CHAPITRE XII - DISPOSITIONS TRANSITOIRES
+
+### Application progressive
+La présente loi est applicable progressivement selon les catégories d'entités.
+
+### Textes d'application
+Des textes réglementaires complémentaires seront pris pour l'application de la présente loi.

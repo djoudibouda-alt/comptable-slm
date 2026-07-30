@@ -1,0 +1,8 @@
+chroma_db/
+.env
+*.gguf
+__pycache__/
+*.pyc
+.gradio/
+*.pptx
+test_demo.py

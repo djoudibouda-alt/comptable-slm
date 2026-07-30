@@ -1,0 +1,15 @@
+L'intelligence artificielle (IA) est un domaine de l'informatique qui vise à créer des systèmes capables de réaliser des tâches nécessitant normalement une intelligence humaine. Ces tâches incluent la compréhension du langage naturel, la reconnaissance d'images, la prise de décision et la traduction.
+
+L'apprentissage automatique (machine learning) est un sous-domaine de l'IA qui permet aux machines d'apprendre à partir de données sans être explicitement programmées. Il existe trois types principaux d'apprentissage : supervisé, non supervisé et par renforcement.
+
+Le deep learning (apprentissage profond) utilise des réseaux neuronaux artificiels à plusieurs couches pour analyser des données complexes. Il a révolutionné des domaines comme la vision par ordinateur et le traitement du langage naturel.
+
+Les réseaux de neurones transformer, introduits en 2017 dans l'article "Attention Is All You Need", sont à la base de la plupart des grands modèles de langage actuels comme GPT, BERT et les modèles Nemotron de NVIDIA. Ils utilisent un mécanisme d'attention qui permet au modèle de捕获 les dépendances à longue distance dans les séquences de données.
+
+Le Retrieval-Augmented Generation (RAG) est une technique qui combine la recherche d'informations et la génération de texte. Elle permet aux modèles de langage d'accéder à des bases de connaissances externes pour fournir des réponses plus précises et à jour. Le RAG utilise un modèle d'embedding pour convertir les documents en vecteurs numériques, puis recherche les documents les plus pertinents pour répondre à une question.
+
+Les modèles d'embedding comme Nemotron-3-Embed-1B de NVIDIA sont essentiels pour les systèmes RAG. Ils convertissent le texte en vecteurs denses de grande dimension (2048 dimensions pour Nemotron-3-Embed-1B) qui capturent la signification sémantique du texte. Ces vecteurs permettent de calculer la similarité entre une question et un ensemble de documents.
+
+NVIDIA a développé la famille Nemotron de modèles de langage, incluant des modèles pour la génération de texte, le raisonnement, et l'embedding. Le Nemotron-3-Embed-1B est un modèle léger mais performant, optimisé pour la recherche multilingue avec support de 34 langues.
+
+Les applications de l'IA sont vastes et variées : assistants virtuels, voitures autonomes, diagnostic médical, découverte de médicaments, création artistique, et bien d'autres. L'IA continue d'évoluer rapidement, avec de nouvelles avancées chaque année dans des domaines comme l'IA agentic, les modèles multimodaux, et l'IA physique.

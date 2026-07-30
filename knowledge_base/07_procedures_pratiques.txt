@@ -1,0 +1,893 @@
+# GUIDE PRATIQUE DES ÉCRITURES COMPTABLES
+## Procédures pratiques pour les opérations courantes en Algérie
+
+---
+
+## 1. PRÉSENTATION GÉNÉRALE
+
+Ce guide pratique présente les écritures comptables courantes pour les entreprises algériennes, conformément au Système Comptable et Financier (SCF).
+
+### 1.1 Principes fondamentaux
+- **Principe de la partie double** : tout enregistrement affecte au moins deux comptes
+- **Équilibre** : le total des débits doit être égal au total des crédits
+- **Chronologie** : enregistrement dans l'ordre chronologique
+- **Justification** : toute écriture doit être justifiée par un document
+
+### 1.2 Plan de compte utilisé
+- Classe 1 : Ressources durables
+- Classe 2 : Actif immobilisé
+- Classe 3 : Stocks
+- Classe 4 : Tiers
+- Classe 5 : Trésorerie
+- Classe 6 : Charges
+- Classe 7 : Produits
+
+---
+
+## 2. OPÉRATIONS DE CRÉATION DE SOCIÉTÉ
+
+### 2.1 Dépôt du capital social
+
+#### 2.1.1 Apport en numéraire
+```
+Débit: 512 Banque
+Crédit: 101 Capital émis
+```
+
+**Exemple :**
+- Capital social : 1 000 000 DA
+- Libération : 250 000 DA (25%)
+
+```
+Débit: 512 Banque 250 000 DA
+Crédit: 101 Capital émis 250 000 DA
+```
+
+#### 2.1.2 Apport en nature
+```
+Débit: 21x Immobilisations (au prix d'acquisition)
+Crédit: 101 Capital émis
+```
+
+**Exemple :**
+- Apport d'un véhicule : 500 000 DA
+
+```
+Débit: 215 Matériel de transport 500 000 DA
+Crédit: 101 Capital émis 500 000 DA
+```
+
+### 2.2 Frais de constitution
+
+```
+Débit: 201 Frais d'établissement
+Crédit: 512 Banque
+```
+
+**Exemple :**
+- Frais de constitution : 50 000 DA
+
+```
+Débit: 201 Frais d'établissement 50 000 DA
+Crédit: 512 Banque 50 000 DA
+```
+
+---
+
+## 3. OPÉRATIONS D'ACHATS
+
+### 3.1 Achat de marchandises
+
+#### 3.1.1 Achat au comptant
+```
+Débit: 601 Achats de marchandises
+Crédit: 512 Banque
+```
+
+**Exemple :**
+- Achat de marchandises : 100 000 DA
+
+```
+Débit: 601 Achats de marchandises 100 000 DA
+Crédit: 512 Banque 100 000 DA
+```
+
+#### 3.1.2 Achat à crédit
+```
+Débit: 601 Achats de marchandises
+Crédit: 411 Fournisseurs
+```
+
+**Exemple :**
+- Achat de marchandises à crédit : 200 000 DA
+
+```
+Débit: 601 Achats de marchandises 200 000 DA
+Crédit: 411 Fournisseurs 200 000 DA
+```
+
+### 3.2 Achat de matières premières
+
+#### 3.2.1 Achat au comptant
+```
+Débit: 321 Matières premières
+Crédit: 512 Banque
+```
+
+**Exemple :**
+- Achat de matières premières : 150 000 DA
+
+```
+Débit: 321 Matières premières 150 000 DA
+Crédit: 512 Banque 150 000 DA
+```
+
+#### 3.2.2 Achat à crédit
+```
+Débit: 321 Matières premières
+Crédit: 411 Fournisseurs
+```
+
+### 3.3 Achat de fournitures
+
+#### 3.3.1 Fournitures non stockables
+```
+Débit: 606 Achats de fournitures administratives
+Crédit: 512 Banque
+```
+
+#### 3.3.2 Fournitures stockables
+```
+Débit: 322 Matières et fournitures consommables
+Crédit: 512 Banque
+```
+
+### 3.4 Retours sur achats
+
+```
+Débit: 411 Fournisseurs
+Crédit: 608 Raisonnements et rabais obtenus
+```
+
+**Exemple :**
+- Retour de marchandises : 20 000 DA
+
+```
+Débit: 411 Fournisseurs 20 000 DA
+Crédit: 608 Raisonnements et rabais obtenus 20 000 DA
+```
+
+---
+
+## 4. OPÉRATIONS DE VENTES
+
+### 4.1 Vente de marchandises
+
+#### 4.1.1 Vente au comptant
+```
+Débit: 512 Banque
+Crédit: 701 Ventes de marchandises
+```
+
+**Exemple :**
+- Vente de marchandises : 150 000 DA
+
+```
+Débit: 512 Banque 150 000 DA
+Crédit: 701 Ventes de marchandises 150 000 DA
+```
+
+#### 4.1.2 Vente à crédit
+```
+Débit: 411 Clients
+Crédit: 701 Ventes de marchandises
+```
+
+**Exemple :**
+- Vente de marchandises à crédit : 300 000 DA
+
+```
+Débit: 411 Clients 300 000 DA
+Crédit: 701 Ventes de marchandises 300 000 DA
+```
+
+### 4.2 Vente de produits fabriqués
+
+#### 4.2.1 Vente au comptant
+```
+Débit: 512 Banque
+Crédit: 705 Ventes de produits finis
+```
+
+#### 4.2.2 Vente à crédit
+```
+Débit: 411 Clients
+Crédit: 705 Ventes de produits finis
+```
+
+### 4.3 Remises sur ventes
+
+```
+Débit: 708 Rabais, ristournes et remises accordés
+Crédit: 411 Clients
+```
+
+**Exemple :**
+- Remise commerciale : 30 000 DA
+
+```
+Débit: 708 Rabais, ristournes et remises accordés 30 000 DA
+Crédit: 411 Clients 30 000 DA
+```
+
+---
+
+## 5. OPÉRATIONS DE PAIEMENT DES SALAIRES
+
+### 5.1 Constatation des salaires
+
+#### 5.1.1 Salaires bruts
+```
+Débit: 631 Salaires, appointements et commissions
+Crédit: 421 Personnel
+```
+
+**Exemple :**
+- Salaires bruts du mois : 200 000 DA
+
+```
+Débit: 631 Salaires, appointements et commissions 200 000 DA
+Crédit: 421 Personnel 200 000 DA
+```
+
+#### 5.1.2 Retenues salariales
+
+**CNAS (part salariale 1,75%) :**
+```
+Débit: 421 Personnel
+Crédit: 431 CNAS
+```
+
+**Exemple :**
+- CNAS salariale : 200 000 × 1,75% = 3 500 DA
+
+```
+Débit: 421 Personnel 3 500 DA
+Crédit: 431 CNAS 3 500 DA
+```
+
+**IRG retenu à la source :**
+```
+Débit: 421 Personnel
+Crédit: 4431 IRG retenu à la source
+```
+
+**Exemple :**
+- IRG retenu : 15 000 DA
+
+```
+Débit: 421 Personnel 15 000 DA
+Crédit: 4431 IRG retenu à la source 15 000 DA
+```
+
+### 5.2 Paiement des salaires
+
+```
+Débit: 421 Personnel
+Crédit: 512 Banque
+```
+
+**Exemple :**
+- Salaire net à payer : 200 000 - 3 500 - 15 000 = 181 500 DA
+
+```
+Débit: 421 Personnel 181 500 DA
+Crédit: 512 Banque 181 500 DA
+```
+
+---
+
+## 6. CHARGES SOCIALES
+
+### 6.1 Cotisations patronales
+
+#### 6.1.1 CNAS (part patronale 26%)
+```
+Débit: 6361 Charges sociales - CNAS patronale
+Crédit: 431 CNAS
+```
+
+**Exemple :**
+- CNAS patronale : 200 000 × 26% = 52 000 DA
+
+```
+Débit: 6361 Charges sociales - CNAS patronale 52 000 DA
+Crédit: 431 CNAS 52 000 DA
+```
+
+#### 6.1.2 Allocations familiales (part patronale 3%)
+```
+Débit: 6362 Charges sociales - Allocations familiales patronales
+Crédit: 431 CNAS
+```
+
+**Exemple :**
+- Allocations familiales patronales : 200 000 × 3% = 6 000 DA
+
+```
+Débit: 6362 Charges sociales - Allocations familiales patronales 6 000 DA
+Crédit: 431 CNAS 6 000 DA
+```
+
+### 6.2 Paiement des cotisations sociales
+
+```
+Débit: 431 CNAS
+Crédit: 512 Banque
+```
+
+**Exemple :**
+- Total cotisations : 52 000 + 6 000 = 58 000 DA
+
+```
+Débit: 431 CNAS 58 000 DA
+Crédit: 512 Banque 58 000 DA
+```
+
+---
+
+## 7. TVA (TAXE SUR LA VALEUR AJOUTÉE)
+
+### 7.1 TVA collectée (ventes)
+
+#### 7.1.1 Vente avec TVA 19%
+```
+Débit: 411 Clients (TTC)
+Crédit: 700 Ventes de marchandises (HT)
+Crédit: 4457 TVA collectée (TVA)
+```
+
+**Exemple :**
+- Vente HT : 100 000 DA
+- TVA 19% : 19 000 DA
+- TTC : 119 000 DA
+
+```
+Débit: 411 Clients 119 000 DA
+Crédit: 700 Ventes de marchandises 100 000 DA
+Crédit: 4457 TVA collectée 19 000 DA
+```
+
+#### 7.1.2 Vente avec TVA 9%
+```
+Débit: 411 Clients (TTC)
+Crédit: 700 Ventes de marchandises (HT)
+Crédit: 4457 TVA collectée (TVA)
+```
+
+**Exemple :**
+- Vente HT : 100 000 DA
+- TVA 9% : 9 000 DA
+- TTC : 109 000 DA
+
+```
+Débit: 411 Clients 109 000 DA
+Crédit: 700 Ventes de marchandises 100 000 DA
+Crédit: 4457 TVA collectée 9 000 DA
+```
+
+### 7.2 TVA déductible (achats)
+
+#### 7.2.1 Achat avec TVA
+```
+Débit: 601 Achats de marchandises (HT)
+Débit: 4456 TVA déductible (TVA)
+Crédit: 401 Fournisseurs (TTC)
+```
+
+**Exemple :**
+- Achat HT : 50 000 DA
+- TVA 19% : 9 500 DA
+- TTC : 59 500 DA
+
+```
+Débit: 601 Achats de marchandises 50 000 DA
+Débit: 4456 TVA déductible 9 500 DA
+Crédit: 401 Fournisseurs 59 500 DA
+```
+
+### 7.3 Liquidation de la TVA
+
+#### 7.3.1 TVA à décaisser (si TVA collectée > TVA déductible)
+```
+Débit: 4457 TVA collectée
+Crédit: 4456 TVA déductible
+Crédit: 4455 TVA à décaisser
+```
+
+**Exemple :**
+- TVA collectée : 19 000 DA
+- TVA déductible : 9 500 DA
+- TVA à décaisser : 9 500 DA
+
+```
+Débit: 4457 TVA collectée 19 000 DA
+Crédit: 4456 TVA déductible 9 500 DA
+Crédit: 4455 TVA à décaisser 9 500 DA
+```
+
+#### 7.3.2 Paiement de la TVA
+```
+Débit: 4455 TVA à décaisser
+Crédit: 512 Banque
+```
+
+**Exemple :**
+- Paiement TVA : 9 500 DA
+
+```
+Débit: 4455 TVA à décaisser 9 500 DA
+Crédit: 512 Banque 9 500 DA
+```
+
+---
+
+## 8. AMORTISSEMENTS
+
+### 8.1 Constatation des amortissements
+
+```
+Débit: 681x Dotations aux amortissements
+Crédit: 28x Amortissements
+```
+
+**Exemple :**
+- Amortissement annuel d'un véhicule : 100 000 DA
+
+```
+Débit: 6812 Dotations aux amortissements des immobilisations corporelles 100 000 DA
+Crédit: 283 Amortissements du matériel et outillage 100 000 DA
+```
+
+### 8.2 Tableau d'amortissement
+
+#### 8.2.1 Amortissement linéaire
+- **Formule** : (Valeur d'acquisition - Valeur résiduelle) / Durée de vie
+
+**Exemple :**
+- Véhicule : 1 000 000 DA
+- Durée : 5 ans
+- Valeur résiduelle : 0 DA
+- Amortissement annuel : 200 000 DA
+
+#### 8.2.2 Amortissement dégressif
+- **Taux** = Taux linéaire × Coefficient dégressif
+- **Coefficient** : 1,5 ou 2 selon la durée de vie
+
+### 8.3 Cas pratiques d'amortissements
+
+#### 8.3.1 Matériel informatique
+- Durée : 3 ans
+- Méthode : linéaire ou dégressif
+- Valeur d'acquisition : 500 000 DA
+- Amortissement annuel : 166 667 DA (linéaire)
+
+#### 8.3.2 Mobilier de bureau
+- Durée : 10 ans
+- Méthode : linéaire
+- Valeur d'acquisition : 300 000 DA
+- Amortissement annuel : 30 000 DA
+
+#### 8.3.3 Bâtiment
+- Durée : 20 à 50 ans
+- Méthode : linéaire
+- Valeur d'acquisition : 5 000 000 DA
+- Amortissement annuel : 100 000 DA (durée 50 ans)
+
+---
+
+## 9. PROVISIONS
+
+### 9.1 Provision pour créances douteuses
+
+#### 9.1.1 Constatation de la provision
+```
+Débit: 656 Charges des provisions
+Crédit: 490 Provisions pour dépréciation de comptes clients
+```
+
+**Exemple :**
+- Créance douteuse : 50 000 DA
+
+```
+Débit: 656 Charges des provisions 50 000 DA
+Crédit: 490 Provisions pour dépréciation de comptes clients 50 000 DA
+```
+
+#### 9.1.2 Utilisation de la provision (si créance recouvrée)
+```
+Débit: 490 Provisions pour dépréciation de comptes clients
+Crédit: 656 Charges des provisions
+```
+
+### 9.2 Provision pour litiges
+
+#### 9.2.1 Constatation de la provision
+```
+Débit: 656 Charges des provisions
+Crédit: 142 Provisions pour litiges
+```
+
+**Exemple :**
+- Provision pour litige : 100 000 DA
+
+```
+Débit: 656 Charges des provisions 100 000 DA
+Crédit: 142 Provisions pour litiges 100 000 DA
+```
+
+### 9.3 Provision pour garanties
+
+```
+Débit: 656 Charges des provisions
+Crédit: 143 Provisions pour garanties données aux clients
+```
+
+---
+
+## 10. RÉGULARISATIONS DE FIN D'EXERCICE
+
+### 10.1 Charges constatées d'avance
+
+#### 10.1.1 Constatation
+```
+Débit: 480 Charges constatées d'avance
+Crédit: 6xx Charges correspondantes
+```
+
+**Exemple :**
+- Loyer payé d'avance : 30 000 DA
+
+```
+Débit: 480 Charges constatées d'avance 30 000 DA
+Crédit: 615 Locations et charges locatives 30 000 DA
+```
+
+#### 10.1.2 Régularisation (début d'exercice)
+```
+Débit: 6xx Charges correspondantes
+Crédit: 480 Charges constatées d'avance
+```
+
+### 10.2 Produits constatés d'avance
+
+#### 10.2.1 Constatation
+```
+Débit: 7xx Produits correspondants
+Crédit: 170 Produits constatés d'avance
+```
+
+**Exemple :**
+- Loyer reçu d'avance : 30 000 DA
+
+```
+Débit: 512 Banque 30 000 DA
+Crédit: 170 Produits constatés d'avance 30 000 DA
+```
+
+#### 10.2.2 Régularisation (début d'exercice)
+```
+Débit: 170 Produits constatés d'avance
+Crédit: 7xx Produits correspondants
+```
+
+### 10.3 Charges à payer
+
+```
+Débit: 6xx Charges correspondantes
+Crédit: 171 Charges à payer
+```
+
+**Exemple :**
+- Facture de téléphone à payer : 15 000 DA
+
+```
+Débit: 621 Études et recherches 15 000 DA
+Crédit: 171 Charges à payer 15 000 DA
+```
+
+### 10.4 Produits à recevoir
+
+```
+Débit: 172 Produits à recevoir
+Crédit: 7xx Produits correspondants
+```
+
+**Exemple :**
+- Facture à émettre : 50 000 DA
+
+```
+Débit: 172 Produits à recevoir 50 000 DA
+Crédit: 701 Ventes de marchandises 50 000 DA
+```
+
+---
+
+## 11. OPÉRATIONS SUR LES IMMOBILISATIONS
+
+### 11.1 Acquisition d'immobilisations
+
+#### 11.1.1 Achat au comptant
+```
+Débit: 21x Immobilisations
+Crédit: 512 Banque
+```
+
+**Exemple :**
+- Achat de matériel : 500 000 DA
+
+```
+Débit: 213 Constructions 500 000 DA
+Crédit: 512 Banque 500 000 DA
+```
+
+#### 11.1.2 Achat à crédit
+```
+Débit: 21x Immobilisations
+Crédit: 411 Fournisseurs
+```
+
+### 11.2 Cession d'immobilisations
+
+#### 11.2.1 Vente d'une immobilisation
+```
+Débit: 512 Banque (prix de vente)
+Débit: 28x Amortissements cumulés
+Débit/Crédit: 771/661 Produits/Charges exceptionnels (écart)
+Crédit: 21x Immobilisations (valeur d'acquisition)
+```
+
+**Exemple :**
+- Véhicule : valeur d'acquisition 1 000 000 DA
+- Amortissements cumulés : 600 000 DA
+- Prix de vente : 500 000 DA
+
+```
+Débit: 512 Banque 500 000 DA
+Débit: 283 Amortissements du matériel et outillage 600 000 DA
+Crédit: 215 Matériel de transport 1 000 000 DA
+Crédit: 771 Produits exceptionnels sur opérations courantes 100 000 DA
+```
+
+---
+
+## 12. OPÉRATIONS DE TRÉSORERIE
+
+### 12.1 Opérations de banque
+
+#### 12.1.1 Encaissement
+```
+Débit: 512 Banque
+Crédit: 411 Clients
+```
+
+#### 12.1.2 Décaissement
+```
+Débit: 411 Fournisseurs
+Crédit: 512 Banque
+```
+
+### 12.2 Opérations de caisse
+
+#### 12.2.1 Encaissement
+```
+Débit: 521 Caisse
+Crédit: 411 Clients
+```
+
+#### 12.2.2 Décaissement
+```
+Débit: 606 Achats de fournitures administratives
+Crédit: 521 Caisse
+```
+
+### 12.3 Rapprochement bancaire
+
+#### 12.3.1 Écriture de rapprochement
+- Vérification des relevés bancaires
+- Identification des écarts
+- Enregistrement des opérations bancaires non comptabilisées
+
+---
+
+## 13. OPÉRATIONS DIVERSES
+
+### 13.1 Perte sur créance irrécouvrable
+
+#### 13.1.1 Constatation de la dépréciation
+```
+Débit: 653 Pertes sur créances devenues irrécouvrables
+Crédit: 411 Clients
+```
+
+**Exemple :**
+- Créance irrécouvrable : 25 000 DA
+
+```
+Débit: 653 Pertes sur créances devenues irrécouvrables 25 000 DA
+Crédit: 411 Clients 25 000 DA
+```
+
+### 13.2 Escomptes obtenus
+
+```
+Débit: 512 Banque
+Débit: 654 Escomptes accordés
+Crédit: 411 Clients
+```
+
+**Exemple :**
+- Encaissement avec escompte : 95 000 DA (escompte 5 000 DA)
+
+```
+Débit: 512 Banque 95 000 DA
+Débit: 654 Escomptes accordés 5 000 DA
+Crédit: 411 Clients 100 000 DA
+```
+
+### 13.3 Escomptes accordés
+
+```
+Débit: 411 Fournisseurs
+Crédit: 512 Banque
+Crédit: 754 Escomptes obtenus
+```
+
+---
+
+## 14. INVENTAIRE
+
+### 14.1 Variation de stocks
+
+#### 14.1.1 Variation positive (stock final > stock initial)
+```
+Débit: 38x Variation de stocks
+Crédit: 72x Variation de stocks de produits
+```
+
+#### 14.1.2 Variation négative (stock final < stock initial)
+```
+Débit: 38x Variation de stocks
+Crédit: 32x Stocks
+```
+
+### 14.2 État des stocks
+
+#### 14.2.1 Documents d'inventaire
+- Fiche d'inventaire
+- État des stocks
+- Rapprochement comptable
+
+#### 14.2.2 Écritures de régularisation
+- Ajustement des stocks
+- Provisions pour dépréciation
+- Variation de stocks
+
+---
+
+## 15. IMPÔTS ET TAXES
+
+### 15.1 Impôt sur les Sociétés (IBS)
+
+#### 15.1.1 Constatation de l'IBS
+```
+Débit: 671 Impôt sur les sociétés
+Crédit: 4431 IBS dû
+```
+
+**Exemple :**
+- IBS dû : 190 000 DA
+
+```
+Débit: 671 Impôt sur les sociétés 190 000 DA
+Crédit: 4431 IBS dû 190 000 DA
+```
+
+#### 15.1.2 Paiement de l'IBS
+```
+Débit: 4431 IBS dû
+Crédit: 512 Banque
+```
+
+### 15.2 Taxe professionnelle
+
+#### 15.2.1 Constatation
+```
+Débit: 6411 Taxe professionnelle
+Crédit: 447 Taxe professionnelle
+```
+
+#### 15.2.2 Paiement
+```
+Débit: 447 Taxe professionnelle
+Crédit: 512 Banque
+```
+
+---
+
+## 16. AFFECTATION DU RÉSULTAT
+
+### 16.1 Constatation du résultat
+
+#### 16.1.1 Bénéfice
+```
+Débit: 770 Résultat de l'exercice (bénéfice)
+Crédit: 190 Résultat de l'exercice (bénéfice)
+```
+
+#### 16.1.2 Perte
+```
+Débit: 199 Résultat de l'exercice (perte)
+Crédit: 670 Résultat de l'exercice (perte)
+```
+
+### 16.2 Réserve légale
+
+```
+Débit: 190 Résultat de l'exercice (bénéfice)
+Crédit: 120 Réserves légales
+```
+
+**Exemple :**
+- Bénéfice : 500 000 DA
+- Réserve légale (5%) : 25 000 DA
+
+```
+Débit: 190 Résultat de l'exercice (bénéfice) 500 000 DA
+Crédit: 120 Réserves légales 25 000 DA
+Crédit: 190 Report à nouveau 475 000 DA
+```
+
+---
+
+## 17. RÉCAPITULATIF DES ÉCRITURES COURANTES
+
+| Opération | Débit | Crédit |
+|-----------|-------|--------|
+| Achat marchandises comptant | 601 | 512 |
+| Achat marchandises à crédit | 601 | 411 |
+| Vente marchandises comptant | 512 | 700 |
+| Vente marchandises à crédit | 411 | 700 |
+| Salaires | 631 | 421 |
+| CNAS patronale | 6361 | 431 |
+| TVA collectée | 4457 | 700 |
+| TVA déductible | 601 | 4456 |
+| Amortissement | 681 | 28x |
+| Provision | 656 | 49x |
+| IBS | 671 | 4431 |
+
+---
+
+## 18. CONSEILS PRATIQUES
+
+### 18.1 Bonnes pratiques comptables
+- Enregistrer les opérations au jour le jour
+- Justifier toutes les écritures
+- Tenir une comptabilité régulière
+- Respecter le principe de prudence
+
+### 18.2 Contrôle interne
+- Séparation des fonctions
+- Double signature pour les paiements
+- Rapprochements bancaires mensuels
+- Inventaires physiques réguliers
+
+### 18.3 Archivage
+- Conservation des documents pendant 10 ans
+- Classement chronologique
+- Backup numérique
+- Sécurisation des données
+
+---
+
+Ce guide pratique constitue une référence quotidienne pour les comptables et les gestionnaires en Algérie. Il permet de réaliser rapidement les écritures comptables courantes conformément au Plan Comptable National.

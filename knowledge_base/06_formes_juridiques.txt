@@ -1,0 +1,628 @@
+# FORMES DE SOCIÉTÉS EN ALGÉRIE
+## Guide complet des formes juridiques d'entreprises
+
+---
+
+## 1. PRÉSENTATION GÉNÉRALE
+
+Le droit algérien prévoit plusieurs formes de sociétés commerciales, chacune adaptée à des besoins spécifiques en termes de taille, de capital et de mode de gestion.
+
+### 1.1 Cadre législatif
+- **Ordonnance n° 75-58 du 26 septembre 1975** : Code de commerce
+- **Loi n° 04-18 du 25 décembre 2004** : Obligations comptables
+- **Décret exécutif n° 97-12 du 26 janvier 1997** : Plan Comptable National
+- **Loi n° 15-04 du 23 février 2015** : Commerce et promotion des exportations
+
+### 1.2 Classification des sociétés
+
+#### 1.2.1 Selon la responsabilité des associés
+- **Sociétés à responsabilité limitée** : SARL, EURL, SPA
+- **Sociétés à responsabilité illimitée** : SNC
+- **Sociétés à responsabilité mixte** : SCS, SCA
+
+#### 1.2.2 Selon le capital
+- **Capital fixe** : SARL, SPA
+- **Capital variable** : coopératives
+- **Pas de capital minimum** : SNC
+
+---
+
+## 2. SOCIÉTÉ À RESPONSABILITÉ LIMITÉE (SARL)
+
+### 2.1 Définition
+La SARL est une société commerciale dont les associés sont responsables des dettes sociales uniquement dans la limite de leurs apports.
+
+### 2.2 Caractéristiques principales
+
+#### 2.2.1 Nombre d'associés
+- **Minimum** : 2 associés
+- **Maximum** : 50 associés
+- **Personnes physiques ou morales** : autorisées
+
+#### 2.2.2 Capital social
+- **Minimum** : 100 000 DA (1 million DA depuis la loi de finance 2019)
+- **Libération** : 25% à la constitution, solde dans les 3 ans
+- **Forme des apports** : numéraire, nature ou industrie
+
+#### 2.2.3 Responsabilité des associés
+- **Limitée aux apports** : les associés ne sont pas personnellement responsables des dettes sociales
+- **Exception** : en cas de faute de gestion, la responsabilité peut être étendue
+
+### 2.3 Constitution
+
+#### 2.3.1 Étapes de création
+1. Rédaction des statuts
+2. Dépôt du capital social
+3. Publication légale (Journal Officiel)
+4. Inscription au Registre du Commerce
+5. Obtention du NIF (Numéro d'Identification Fiscale)
+6. Déclaration d'activité
+
+#### 2.3.2 Statuts obligatoires
+- Dénomination sociale
+- Forme juridique (SARL)
+- Siège social
+- Objet social
+- Capital social
+- Durée de la société
+- Identité des associés
+- Modalités de répartition des bénéfices
+
+#### 2.3.3 Publicité légale
+- Publication dans le Journal Officiel
+- Délai : 15 jours après la signature des statuts
+- Coût : variable selon la longueur des statuts
+
+### 2.4 Fonctionnement
+
+#### 2.4.1 Direction
+- **Gérant** : personne physique ou morale
+- **Pouvoirs** : administration et représentation
+- **Désignation** : par les statuts ou par décision des associés
+- **Durée** : déterminée ou indéterminée
+
+#### 2.4.2 Assemblées générales
+- **Assemblée Générale Ordinaire (AGO)** : annuelle
+  - Approbation des comptes
+  - Affectation du résultat
+  - Désignation du gérant
+  - Vote à la majorité simple
+
+- **Assemblée Générale Extraordinaire (AGE)** : modification des statuts
+  - Modification du capital social
+  - Fusion ou scission
+  - Dissolution anticipée
+  - Vote aux 2/3 des voix
+
+#### 2.4.3 Gestion
+- Tenue de la comptabilité conforme au SCF
+- Établissement des comptes annuels
+- Dépôt des comptes au greffe du tribunal
+- Publicité des comptes
+
+### 2.5 Fiscalité
+
+#### 2.5.1 Impôt sur les Sociétés (IBS)
+- **Taux** : 19% du résultat fiscal
+- **Déclaration** : mensuelle et annuelle
+
+#### 2.5.2 Taxe sur la Valeur Ajoutée (TVA)
+- **Taux normal** : 19%
+- **Taux réduit** : 9%
+- **Déclaration** : mensuelle
+
+#### 2.5.3 Taxe professionnelle
+- **Taux** : 0,5% à 2% du chiffre d'affaires
+- **Déclaration** : annuelle
+
+### 2.6 Avantages et inconvénients
+
+#### 2.6.1 Avantages
+- Responsabilité limitée des associés
+- Souplesse de gestion
+- Fiscalité avantageuse
+- Crédibilité commerciale
+
+#### 2.6.2 Inconvénients
+- Obligation de publication des comptes
+- Formalisme de constitution
+- Nombre maximum de 50 associés
+- Interdiction de faire appel public à l'épargne
+
+---
+
+## 3. ENTREPRISE UNIPERSONNELLE À RESPONSABILITÉ LIMITÉE (EURL)
+
+### 3.1 Définition
+L'EURL est une SARL à associé unique, créée par la loi n° 04-18 du 25 décembre 2004.
+
+### 3.2 Caractéristiques principales
+
+#### 3.2.1 Associé unique
+- **Personne physique** : entrepreneur individuel
+- **Personne morale** : filiale d'une société
+- **Nombre** : 1 seul associé
+
+#### 3.2.2 Capital social
+- **Minimum** : 100 000 DA (1 million DA depuis 2019)
+- **Libération** : 25% à la constitution
+- **Forme des apports** : numéraire ou nature
+
+#### 3.2.3 Responsabilité
+- **Limitée aux apports** : l'associé n'est pas personnellement responsable
+- **Patrimoine personnel** : protégé
+
+### 3.3 Constitution
+
+#### 3.3.1 Étapes de création
+1. Rédaction des statuts
+2. Dépôt du capital social
+3. Publication légale
+4. Inscription au Registre du Commerce
+5. Obtention du NIF
+6. Déclaration d'activité
+
+#### 3.3.2 Statuts obligatoires
+- Dénomination sociale (EURL précédant la dénomination)
+- Siège social
+- Objet social
+- Capital social
+- Durée de la société
+- Identité de l'associé unique
+
+### 3.4 Fonctionnement
+
+#### 3.4.1 Direction
+- **Gérant** : l'associé unique ou un tiers
+- **Pouvoirs** : administration et représentation
+- **Révocation** : libre (sauf clause contraire)
+
+#### 3.4.2 Gestion
+- Tenue de la comptabilité
+- Établissement des comptes annuels
+- Dépôt des comptes au greffe
+- Pas d'assemblée générale (associé unique)
+
+### 3.5 Fiscalité
+
+#### 3.5.1 Option fiscale
+- **IBS** : 19% du résultat fiscal (option pour l'IBS)
+- **IRG** : barème progressif si l'associé est une personne physique
+
+#### 3.5.2 Avantage fiscal
+- Possibilité d'opter pour l'IRG (si l'associé est une personne physique)
+- Elimination de la double imposition des dividendes
+
+### 3.6 Avantages et inconvénients
+
+#### 3.6.1 Avantages
+- Souplesse de gestion (associé unique)
+- Protection du patrimoine personnel
+- Fiscalité avantageuse (option IRG/IBS)
+- Simplicité de constitution
+
+#### 3.6.2 Inconvénients
+- Responsabilité limitée mais pas de diversification
+- Risque de confusion patrimoine personnel/société
+- Obligation de publicité
+- Pas de possibilité de faire appel public à l'épargne
+
+---
+
+## 4. SOCIÉTÉ EN NOM COLLECTIF (SNC)
+
+### 4.1 Définition
+La SNC est une société commerciale dont les associés sont solidairement et indéfiniment responsables des dettes sociales.
+
+### 4.2 Caractéristiques principales
+
+#### 4.2.1 Nombre d'associés
+- **Minimum** : 2 associés
+- **Maximum** : aucun maximum
+- **Personnes physiques ou morales** : autorisées
+
+#### 4.2.2 Capital social
+- **Minimum** : pas de minimum légal
+- **Forme des apports** : numéraire, nature ou industrie
+
+#### 4.2.3 Responsabilité des associés
+- **Solidaire et illimitée** : chaque associé est personnellement responsable
+- **Conséquence** : le patrimoine personnel est engagé
+
+### 4.3 Constitution
+
+#### 4.3.1 Étapes de création
+1. Rédaction des statuts
+2. Dépôt du capital social
+3. Publication légale
+4. Inscription au Registre du Commerce
+5. Obtention du NIF
+
+#### 4.3.2 Statuts obligatoires
+- Dénomination sociale (SNC précédant la dénomination)
+- Siège social
+- Objet social
+- Capital social
+- Durée de la société
+- Identité des associés
+- Modalités de gestion
+
+### 4.4 Fonctionnement
+
+#### 4.4.1 Direction
+- **Gérant** : un associé ou un tiers
+- **Pouvoirs** : administration et représentation
+- **Désignation** : par les statuts ou par décision collective
+
+#### 4.4.2 Assemblées générales
+- **Assemblée Générale Ordinaire** : annuelle
+- **Assemblée Générale Extraordinaire** : modification des statuts
+- **Vote** : à la majorité (sauf clause contraire)
+
+### 4.5 Fiscalité
+
+#### 4.5.1 Impôt sur les Sociétés (IBS)
+- **Taux** : 19% du résultat fiscal
+- **Option pour l'IRG** : possible pour les associés personnes physiques
+
+#### 4.5.2 Rémunération des associés
+- **Rémunération** : traitement de la rémunération du gérant
+- **Dividendes** : distributions soumises à l'IRG
+
+### 4.6 Avantages et inconvénients
+
+#### 4.6.1 Avantages
+- Souplesse de constitution
+- Pas de capital minimum
+- Gestion simplifiée
+- Fiscalité avantageuse (option IRG)
+
+#### 4.6.2 Inconvénients
+- Responsabilité illimitée des associés
+- Solidarité des dettes sociales
+- Risque pour le patrimoine personnel
+- Difficulté à céder les parts
+
+---
+
+## 5. SOCIÉTÉ PAR ACTIONS (SPA)
+
+### 5.1 Définition
+La SPA est une société dont le capital est divisé en actions, et dont les actionnaires ne sont responsables des dettes sociales qu'à concurrence de leurs apports.
+
+### 5.2 Caractéristiques principales
+
+#### 5.2.1 Nombre d'actionnaires
+- **Minimum** : 7 actionnaires
+- **Maximum** : aucun maximum
+- **Personnes physiques ou morales** : autorisées
+
+#### 5.2.2 Capital social
+- **Minimum** : 10 millions DA
+- **Libération** : 25% à la constitution, solde dans les 3 ans
+- **Forme des apports** : numéraire ou nature
+
+#### 5.2.3 Responsabilité des actionnaires
+- **Limitée aux apports** : les actionnaires ne sont pas personnellement responsables
+
+### 5.3 Constitution
+
+#### 5.3.1 Étapes de création
+1. Rédaction des statuts
+2. Souscription du capital social
+3. Libération du capital
+4. Publication légale
+5. Inscription au Registre du Commerce
+6. Obtention du NIF
+
+#### 5.3.2 Statuts obligatoires
+- Dénomination sociale (SPA précédant la dénomination)
+- Siège social
+- Objet social
+- Capital social
+- Nombre et forme des actions
+- Durée de la société
+- Identité des fondateurs
+
+### 5.4 Fonctionnement
+
+#### 5.4.1 Direction
+- **Président-Directeur Général (PDG)** : personne physique
+- **Directeur Général (DG)** : personne physique
+- **Conseil d'Administration** : 5 à 12 membres
+- **Commissaire aux comptes** : obligatoire
+
+#### 5.4.2 Assemblées générales
+- **Assemblée Générale Ordinaire** : annuelle
+  - Approbation des comptes
+  - Affectation du résultat
+  - Désignation des administrateurs
+  - Vote à la majorité simple
+
+- **Assemblée Générale Extraordinaire** : modification des statuts
+  - Augmentation ou réduction du capital
+  - Fusion ou scission
+  - Dissolution anticipée
+  - Vote aux 2/3 des voix
+
+#### 5.4.3 Gouvernance
+- Conseil d'administration
+- Comité d'audit
+- Comité des rémunérations
+- Comité des nominations
+
+### 5.5 Types de SPA
+
+#### 5.5.1 SPA à capital fermé
+- Actions non négociables en bourse
+- Cession soumise à agrément
+- Gouvernance simplifiée
+
+#### 5.5.2 SPA à capital ouvert (cotée)
+- Actions négociables en bourse
+- Libre circulation des actions
+- Gouvernance renforcée
+
+### 5.6 Fiscalité
+
+#### 5.6.1 Impôt sur les Sociétés (IBS)
+- **Taux** : 19% du résultat fiscal
+- **Déclaration** : mensuelle et annuelle
+
+#### 5.6.2 Dividendes
+- **Taux d'IRG** : 15% sur les dividendes distribués
+- **Retenue à la source** : par la société
+
+### 5.7 Avantages et inconvénients
+
+#### 5.7.1 Avantages
+- Responsabilité limitée
+- Possibilité de faire appel public à l'épargne
+- Crédibilité commerciale
+- Gouvernance renforcée
+
+#### 5.7.2 Inconvénients
+- Capital social élevé
+- Formalisme de constitution
+- Obligation de nommer un commissaire aux comptes
+- Publicité renforcée des comptes
+
+---
+
+## 6. SOCIÉTÉ EN COMMANDITE
+
+### 6.1 Société en Commandite Simple (SCS)
+
+#### 6.1.1 Définition
+La SCS est une société composée de commandités (responsables illimités) et de commanditaires (responsables limités).
+
+#### 6.1.2 Caractéristiques
+- **Commandités** : responsabilité illimitée et solidaire
+- **Commanditaires** : responsabilité limitée aux apports
+- **Capital social** : pas de minimum légal
+- **Gérant** : obligatoirement un commandité
+
+#### 6.1.3 Constitution
+1. Rédaction des statuts
+2. Dépôt du capital social
+3. Publication légale
+4. Inscription au Registre du Commerce
+
+### 6.2 Société en Commandite par Actions (SCA)
+
+#### 6.2.1 Définition
+La SCA est une société en commandite dont le capital est divisé en actions.
+
+#### 6.2.2 Caractéristiques
+- **Commandités** : responsabilité illimitée
+- **Actionnaires** : responsabilité limitée aux apports
+- **Capital social** : minimum 10 millions DA
+- **Gérant** : obligatoirement un commandité
+
+#### 6.2.3 Gouvernance
+- **Gérant** : commandité
+- **Conseil de surveillance** : optionnel
+- **Assemblée générale** : des actionnaires
+
+### 6.3 Avantages et inconvénients
+
+#### 6.3.1 Avantages
+- Responsabilité limitée pour les commanditaires
+- Souplesse de gestion
+- Fiscalité avantageuse
+
+#### 6.3.2 Inconvénients
+- Responsabilité illimitée pour les commandités
+- Complexité de la structure
+- Risque pour le patrimoine personnel des commandités
+
+---
+
+## 7. COMPARAISON DES FORMES DE SOCIÉTÉS
+
+### 7.1 Tableau comparatif
+
+| Critère | SARL | EURL | SNC | SPA | SCS/SCA |
+|---------|------|------|-----|-----|---------|
+| **Nombre d'associés** | 2-50 | 1 | 2+ | 7+ | 2+ |
+| **Capital minimum** | 1 M DA | 1 M DA | Libre | 10 M DA | Libre |
+| **Responsabilité** | Limitée | Limitée | Illimitée | Limitée | Mixte |
+| **Gérance** | Gérant | Gérant | Gérant | PDG | Gérant |
+| **Publicité** | Modérée | Faible | Faible | Forte | Faible |
+| **Cotisation en bourse** | Non | Non | Non | Oui | Oui |
+| **Commissaire aux comptes** | Non | Non | Non | Oui | Non |
+
+### 7.2 Critères de choix
+
+#### 7.2.1 Pour un projet individuel
+- **EURL** :最佳选择 pour un entrepreneur seul
+- **SARL** : si association avec un ou plusieurs partenaires
+
+#### 7.2.2 Pour un projet en groupe
+- **SARL** : projet de taille moyenne
+- **SPA** : projet de grande envergure
+- **SNC** : projet avec des associés de confiance
+
+#### 7.2.3 Pour un projet d'investissement
+- **SPA** : pour faire appel public à l'épargne
+- **SCA** : pour des investisseurs spécifiques
+
+---
+
+## 8. FORMALITÉS DE CRÉATION
+
+### 8.1 Étapes communes à toutes les sociétés
+
+#### 8.1.1 Rédaction des statuts
+- Contenu obligatoire
+- Signature par tous les associés
+- Formalisme légal
+
+#### 8.1.2 Dépôt du capital social
+- Compte bancaire au nom de la société en formation
+- Attestation de dépôt
+- Libération partielle (25% minimum)
+
+#### 8.1.3 Publication légale
+- Journal Officiel
+- Délai : 15 jours
+- Coût variable
+
+#### 8.1.4 Inscription au Registre du Commerce
+- Dossier complet
+- Pièces justificatives
+- Frais d'immatriculation
+
+### 8.2 Documents requis
+
+#### 8.2.1 Pour toutes les sociétés
+- Statuts originaux
+- Attestation de publication légale
+- Attestation de dépôt du capital social
+- Pièce d'identité du gérant
+- Justificatif de domicile du siège
+- Contrat de bail
+
+#### 8.2.2 Documents spécifiques
+- **SARL** : liste des associés
+- **EURL** : déclaration de l'associé unique
+- **SPA** : liste des fondateurs, plan d'organisation
+
+### 8.3 Délais de création
+
+| Étape | Délai estimé |
+|-------|-------------|
+| Rédaction des statuts | 1-2 semaines |
+| Dépôt du capital | 1-2 jours |
+| Publication légale | 1-2 semaines |
+| Inscription au RC | 1 semaine |
+| Obtention du NIF | 1-2 jours |
+| **Total** | **3-6 semaines** |
+
+---
+
+## 9. MODIFICATIONS STATUTAIRES
+
+### 9.1 Changement de gérant
+- Décision des associés
+- Mise à jour des statuts
+- Publication légale
+- Inscription modificative au RC
+
+### 9.2 Augmentation du capital
+- Décision de l'AGE
+- Souscription du capital
+- Libération du capital
+- Mise à jour des statuts
+- Publication légale
+
+### 9.3 Réduction du capital
+- Décision de l'AGE
+- Justification de la réduction
+- Protection des créanciers
+- Mise à jour des statuts
+
+### 9.4 Transfert de siège
+- Décision du gérant ou des associés
+- Nouveau justificatif de domicile
+- Mise à jour des statuts
+- Publication légale
+
+---
+
+## 10. DISSOLUTION ET LIQUIDATION
+
+### 10.1 Causes de dissolution
+- Décision des associés
+- Fin de la durée
+- Réalisation de l'objet social
+- Dissolution judiciaire
+- Faillite
+
+### 10.2 Procédure de liquidation
+
+#### 10.2.1 Désignation du liquidateur
+- Décision des associés
+- Désignation par le tribunal (en cas de faillite)
+
+#### 10.2.2 Opérations de liquidation
+- Inventaire des actifs et passifs
+- Recouvrement des créances
+- Paiement des dettes
+- Vente des actifs
+- Répartition du boni de liquidation
+
+#### 10.2.3 Clôture de la liquidation
+- Approbation des comptes de liquidation
+- Radiation du Registre du Commerce
+- Publication légale
+
+### 10.3 Implications fiscales
+- Impôt sur les sociétés sur le résultat
+- TVA sur les opérations de liquidation
+- Droits d'enregistrement sur les cessions
+
+---
+
+## 11. RESPONSABILITÉ DES DIRIGEANTS
+
+### 11.1 Responsabilité civile
+- **Responsabilité contractuelle** : envers la société
+- **Responsabilité délictuelle** : envers les tiers
+- **Faute de gestion** : engage la responsabilité
+
+### 11.2 Responsabilité pénale
+- Abus de confiance
+- Faux en écritures
+- Détournement de fonds
+- Banqueroute
+
+### 11.3 Responsabilité fiscale
+- Solidarité avec la société pour le paiement de l'IBS
+- Responsabilité personnelle en cas de fraude
+
+---
+
+## 12. CESSION DE PARTS SOCIALES
+
+### 12.1 SARL
+- **Cession à des tiers** : agrément des associés (majorité des 3/4)
+- **Cession entre associés** : libre (sauf clause contraire)
+- **Formalisme** : acte sous seing privé ou notarié
+
+### 12.2 EURL
+- **Cession** : libre (l'associé peut céder ses parts)
+- **Formalisme** : acte sous seing privé ou notarié
+
+### 12.3 SNC
+- **Cession à des tiers** : agrément unanime des associés
+- **Cession entre associés** : libre (sauf clause contraire)
+
+### 12.4 SPA
+- **Actions au porteur** : libre circulation
+- **Actions nominatives** : agrément du conseil d'administration
+- **Cotée en bourse** : libre circulation
+
+---
+
+Ce document constitue une référence complète des formes de sociétés en Algérie. Il est destiné aux entrepreneurs, aux juristes et aux professionnels du droit des affaires en Algérie.

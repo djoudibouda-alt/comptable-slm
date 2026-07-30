@@ -1,0 +1,534 @@
+# FISCALITÉ EN ALGÉRIE
+## Guide complet de la fiscalité algérienne pour les entreprises et les particuliers
+
+---
+
+## 1. PRÉSENTATION GÉNÉRALE DU SYSTÈME FISCAL ALGÉRIEN
+
+Le système fiscal algérien est régi par le Code Général des Impôts et Taxes (CGIT) ainsi que par plusieurs textes réglementaires. Il comprend plusieurs types d'impôts et taxes qui constituent les principales ressources de l'État.
+
+### 1.1 Principes fondamentaux du droit fiscal algérien
+- **Principe de légalité** : les impôts ne peuvent être établis que par la loi
+- **Principe d'égalité** : les contribuables de même situation doivent supporter la même charge fiscale
+- **Principe de territorialité** : les impôts sont dus dans le ressort où est situé le fait générateur
+- **Principe d'annualité** : l'impôt est établi pour chaque année civile
+- **Principe de sincérité** : le contribuable doit déclarer la vérité de sa situation fiscale
+
+### 1.2 Administration fiscale
+L'administration fiscale algérienne est organisée en :
+- Direction Générale des Impôts (DGI)
+- Directions des Impôts wilayales
+- Centres locaux des impôts
+- Brigades de contrôle fiscal
+
+### 1.3 Obligations des contribuables
+- Tenue de documents comptables
+- Déclaration des revenus et benefices
+- Paiement des impôts dans les délais
+- Conservation des justificatifs pendant 10 ans
+- Mise à disposition des documents sur demande
+
+---
+
+## 2. IMPÔT SUR LES SOCIÉTÉS (IBS)
+
+L'IBS est l'impôt principal pesant sur les bénéfices des sociétés commerciales et assimilées.
+
+### 2.1 Champ d'application
+Sont assujettis à l'IBS :
+- Les sociétés commerciales (SARL, SPA, SNC, etc.)
+- Les sociétés d'économie mixte
+- Les établissements publics à caractère commercial
+- Les entreprises individuelles commerciales
+- Les associations et fondations à but lucratif
+- Les sociétés établies à l'étranger ayant un établissement stable en Algérie
+
+### 2.2 Taux d'imposition
+**Taux uniforme : 19% du résultat fiscal**
+
+Ce taux s'applique à l'ensemble des sociétés sans distinction de taille ou de chiffre d'affaires.
+
+### 2.3 Base d'imposition
+- Bénéfice net = Produits - Charges
+- Résultat fiscal = Résultat comptable ± Réintégrations/Déductions fiscales
+
+### 2.4 Réintégrations fiscales (additions au résultat comptable)
+- Dépenses non justifiées
+- Amendes et pénalités
+- Dons et libéralités > 2‰ du chiffre d'affaires
+- Réserve légale (5% du bénéfice jusqu'à 10% du capital)
+- Charges non déductibles (dividendes, pénalités de retard)
+
+### 2.5 Déductions fiscales
+- Amortissements dans les limites réglementaires
+- Provisions pour dépréciation des stocks
+- Provisions pour créances douteuses (2% du CA)
+- Frais d'établissement (1/5 par an pendant 5 ans)
+
+### 2.6 Déclarations et paiement
+- **Déclaration mensuelle** : acompte mensuel de 1/12e de l'IBS estimé
+- **Déclaration annuelle** : avant le 30 avril de l'année N+1
+- **Acompte mensuel** : le 20 du mois suivant
+- **Solde** : au moment du dépôt de la déclaration annuelle
+
+### 2.7 Pénalités de retard
+- Majoration de 5% en cas de retard de paiement
+- Intérêts moratoires de 1% par mois de retard
+- Amendes en cas de non-déclaration
+
+---
+
+## 3. TAXE SUR LA VALEUR AJOUTÉE (TVA)
+
+La TVA est un impôt indirect pesant sur la consommation.
+
+### 3.1 Principe de fonctionnement
+La TVA est un impôt à débit :
+- Les entreprises collectent la TVA sur leurs ventes (TVA collectée)
+- Elles déduisent la TVA payée sur leurs achats (TVA en amont)
+- La différence TVA collectée - TVA en amont = TVA à décaisser
+
+### 3.2 Taux de TVA
+
+#### 3.2.1 Taux normal : 19%
+S'applique à l'ensemble des opérations soumises à la TVA :
+- Ventes de biens et services
+- Livraisons à main d'œuvre
+- Travaux immobiliers
+- Importations soumises à la TVA
+
+#### 3.2.2 Taux réduit : 9%
+S'applique aux produits de première nécessité :
+- Produits alimentaires de base
+- Produits laitiers
+- Pain et farine
+- Huiles et matières grasses
+- Sucre et café
+- Produits pharmaceutiques
+- Livres et journaux
+- Transports de voyageurs
+
+#### 3.2.3 Taux zéro : 0%
+S'applique aux opérations suivantes :
+- Exportations de biens et services
+- Opérations réalisées dans les zones d'exportation
+- Certaines prestations de services internationales
+- Cessions d'immeubles à usage d'habitation
+- Opérations bancaires et financières
+
+### 3.3 Opérations soumises à la TVA
+- Ventes de biens meubles
+- Prestations de services
+- Importations de biens
+- Opérations intra-communautaires (si applicable)
+
+### 3.4 Opérations exonérées de TVA
+- Opérations bancaires et financières
+- Assurances et réassurances
+- Soins médicaux et hospitaliers
+- Enseignement privé
+- Opérations immobilières (sous conditions)
+- Exportations
+
+### 3.5 Obligations déclaratives
+- **Déclaration mensuelle** : le 20 du mois suivant
+- **Déclaration annuelle récapitulative** : avant le 30 avril
+- **Facturation** : obligation de facturer avec mention de la TVA
+
+### 3.6 Crédit de TVA
+- Le crédit de TVA est reportable sur les exercices suivants
+- Possibilité de remboursement dans certains cas (exportateurs)
+- Délai de prescription : 4 ans
+
+---
+
+## 4. IMPÔT SUR LE REVENU GLOBAL (IRG)
+
+L'IRG est un impôt personnel pesant sur le revenu global des personnes physiques.
+
+### 4.1 Champ d'application
+Sont assujettis à l'IRG :
+- Les personnes physiques domiciliées en Algérie
+- Les non-résidents pour leurs revenus de source algérienne
+- Les salariés, fonctionnaires, travailleurs indépendants
+
+### 4.2 Barème progressif de l'IRG (2024)
+
+| Tranche de revenu annuel | Taux applicable |
+|--------------------------|-----------------|
+| Jusqu'à 120 000 DA | 0% |
+| De 120 001 à 360 000 DA | 20% |
+| De 360 001 à 1 440 000 DA | 30% |
+| De 1 440 001 à 3 000 000 DA | 35% |
+| Au-delà de 3 000 000 DA | 40% |
+
+### 4.3 Revenus soumis à l'IRG
+- Salaires et indemnités
+- Bénéfices non commerciaux
+- Revenus fonciers
+- Revenus des capitaux mobiliers
+- Plus-values de cession
+- Revenus mixtes
+
+### 4.4 Déductions et abattements
+- Charges de famille (par personne à charge)
+- Cotisations sociales personnelles
+- Intérêts d'emprunts immobiliers
+- Dons et cotisations syndicales
+- Frais professionnels (abattement forfaitaire)
+
+### 4.5 Retenue à la source (RAS)
+- Salaires : barème progressif
+- Honoraires : 20%
+- Locations : 10%
+- Commissions : 15%
+- Revenus de capitaux : 15%
+
+### 4.6 Déclarations
+- Déclaration mensuelle pour les employeurs
+- Déclaration annuelle des personnes physiques
+- Déclaration de revenus fonciers
+
+---
+
+## 5. TAXE PROFESSIONNELLE
+
+La taxe professionnelle est un impôt local pesant sur l'exercice d'une activité professionnelle.
+
+### 5.1 Champ d'application
+- Entreprises commerciales, industrielles et artisanales
+- Professions libérales
+- Entreprises individuelles
+- Associations à but lucratif
+
+### 5.2 Base d'imposition
+- Valeur locative des locaux professionnels
+- Pour les activités professionnelles : pourcentage du chiffre d'affaires
+
+### 5.3 Taux
+- **Activités industrielles** : 0,5% du chiffre d'affaires
+- **Activités commerciales** : 1% du chiffre d'affaires
+- **Activités de services** : 1,5% du chiffre d'affaires
+- **Professions libérales** : 2% du chiffre d'affaires
+
+### 5.4 Exonérations
+- Nouvelles entreprises pendant les 3 premières années
+- Entreprises en zone de développement
+- Certaines professions agricoles
+
+### 5.5 Déclaration et paiement
+- Déclaration annuelle avant le 30 avril
+- Paiement en 2 acomptes (avril et septembre)
+- Taux majoré en cas de retard
+
+---
+
+## 6. DROIT DE TIMBRE
+
+Le droit de timbre est un impôt proportionnel ou fixe perçu sur certains documents et opérations.
+
+### 6.1 Taux proportionnel
+| Type d'opération | Taux |
+|------------------|------|
+| Actes civils et commerciaux | 1% de la valeur |
+| Cessions de créances | 1% de la créance |
+| Cessions de parts sociales | 1% de la valeur |
+| Cautionnements | 1% du montant |
+| Contrats de location | 1% du loyer annuel |
+
+### 6.2 Taux fixe
+| Document | Montant |
+|----------|---------|
+| Chèques | 15 DA |
+| Reçus de caisse | 5 DA |
+| Lettres de change | 10 DA |
+| Billets à ordre | 10 DA |
+
+### 6.3 Exemptions
+- Chèques émis par l'État
+- Documents bancaires
+- Opérations d'exportation
+
+---
+
+## 7. RETENUE À LA SOURCE (RAS)
+
+La retenue à la source est un mécanisme de prélèvement effectué par le débiteur sur les sommes versées au créancier.
+
+### 7.1 Taux de retenue à la source
+
+#### 7.1.1 Honoraires et prestations de services
+- **Taux** : 20%
+- **Base** : montant brut de la prestation
+- **Retenu par** : le donneur d'ordre
+
+#### 7.1.2 Locations et sous-locations
+- **Taux** : 10%
+- **Base** : loyer brut
+- **Retenu par** : le locataire
+
+#### 7.1.3 Commissions et courtages
+- **Taux** : 15%
+- **Base** : commission brute
+- **Retenu par** : le donneur d'ordre
+
+#### 7.1.4 Dividendes et distributions
+- **Taux** : 15%
+- **Base** : montant brut distribué
+- **Retenu par** : la société distributeuse
+
+#### 7.1.5 Intérêts
+- **Taux** : 15%
+- **Base** : intérêts bruts
+- **Retenu par** : l'emprunteur
+
+#### 7.1.6 Rémunérations des artistes et sportifs
+- **Taux** : 15%
+- **Base** : rémunération brute
+
+### 7.2 Obligations des retenants
+- Déclaration mensuelle de la RAS
+- Versement au Trésor public avant le 20 du mois suivant
+- Établissement d'une attestation de retenue
+
+### 7.3 Non-résidents
+- Taux de retenue plus élevé dans certains cas
+- Application des conventions fiscales internationales
+- Obligation de désigner un représentant fiscal
+
+---
+
+## 8. AUTRES IMPÔTS ET TAXES
+
+### 8.1 Taxe foncière
+- **Assiette** : valeur locative des immeubles
+- **Taux** : entre 1% et 3%
+- **Exigibilité** : annuelle
+
+### 8.2 Taxe sur les véhicules automobiles
+- **Taux** : variable selon la puissance fiscale
+- **Exigibilité** : annuelle
+- **Calcul** : pourcentage du prix d'achat
+
+### 8.3 Taxe d'édilité
+- **Assiette** : surface des panneaux publicitaires
+- **Taux** : selon la superficie et la localisation
+- **Exigibilité** : annuelle
+
+### 8.4 Taxe sur les surfaces commerciales
+- **Assiette** : surface de vente
+- **Taux** : entre 50 et 300 DA/m²
+- **Exigibilité** : annuelle
+
+### 8.5 Droits de douane
+- Droits à l'importation : 0% à 60% selon les produits
+- Taux spécifique pour certains produits
+- Exonérations pour les investissements bénéficiant d'avantages fiscaux
+
+### 8.6 Taxe sur les opérations immobilières
+- **Taux** : 3% de la valeur de la transaction
+- **Assiette** : prix de vente ou valeur vénale
+
+---
+
+## 9. AVANTAGES FISCAUX
+
+### 9.1 Incitations fiscales à l'investissement
+
+#### 9.1.1 Exonération de l'IBS
+- Nouvelles entreprises : 3 ans d'exonération
+- Entreprises en zone de développement : 5 à 10 ans
+- Entreprises d'exportation : 3 à 5 ans
+
+#### 9.1.2 Réduction d'impôt
+- Réduction pour création d'emplois
+- Réduction pour investissement dans les zones défavorisées
+- Réduction pour formation du personnel
+
+### 9.2 Zones d'investissement privilégié
+- Zones industrielles
+- Zones d'exportation
+- Zones de développement économique
+
+### 9.3 Incitations sectorielles
+- Agriculture
+- Tourisme
+- Technologies de l'information
+- Énergies renouvelables
+
+---
+
+## 10. PROCÉDURES FISCALES
+
+### 10.1 Déclaration des impôts
+- **Déclaration spontanée** : obligation du contribuable
+- **Déclaration contrôlée** : sur demande de l'administration
+- **Déclaration estimative** : en cas d'absence de déclaration
+
+### 10.2 Contrôle fiscal
+
+#### 10.2.1 Contrôle sur pièces
+- Examen des documents comptables
+- Vérification de la cohérence des déclarations
+- Analyse des ratios financiers
+
+#### 10.2.2 Contrôle sur place
+- Inspection dans les locaux de l'entreprise
+- Examen des livres et documents
+- Entretien avec le contribuable
+
+### 10.3 Redressement fiscal
+- Notification du redressement
+- Droit de réponse du contribuable
+- Commission de conciliation
+- Recours contentieux
+
+### 10.4 Préscription
+- **Droit de reprise** : 4 ans à partir du 1er janvier de l'année N+1
+- **Droit de rectification** : 4 ans
+- **Prescription de l'action en recouvrement** : 4 ans
+
+### 10.5 Sanctions
+
+#### 10.5.1 Sanctions fiscales
+- Majoration de 5% en cas de retard de paiement
+- Intérêts moratoires de 1% par mois
+- Amendes pour non-déclaration
+- Pénalités pour inexactitude des déclarations
+
+#### 10.5.2 Sanctions pénales
+- Délit de fraude fiscale
+- Amende de 100 000 à 500 000 DA
+- Emprisonnement de 1 à 5 ans en cas de récidive
+
+---
+
+## 11. CONVENTIONS FISCALES INTERNATIONALES
+
+### 11.1 Principe
+L'Algérie a conclu des conventions fiscales avec de nombreux pays pour éviter la double imposition.
+
+### 11.2 Pays avec conventions
+- France
+- Italie
+- Espagne
+- Turquie
+- Pays arabes
+- Pays africains
+
+### 11.3 Contenu des conventions
+- Élimination de la double imposition
+- Échange d'informations fiscales
+- Prévention de la fraude fiscale
+- Règlement des différends
+
+---
+
+## 12. OBLIGATIONS COMPTABLES FISCALES
+
+### 12.1 Tenue de la comptabilité
+- Comptabilité régulière et sincère
+- Utilisation du Plan Comptable National
+- Conservation des livres et documents pendant 10 ans
+- Établissement des états de synthèse
+
+### 12.2 Documents comptables obligatoires
+- Livre-journal
+- Grand livre
+- Balance générale
+- Tableau d'amortissement
+- État des immobilisations
+- État des provisions
+
+### 12.3 Écritures comptables fiscalement significatives
+- Amortissements
+- Provisions
+- Charges non déductibles
+- Produits imposables
+- Régularisations
+
+---
+
+## 13. TVA - CAS PRATIQUES
+
+### 13.1 Calcul de la TVA
+
+#### Exemple 1 : Vente avec TVA 19%
+- Prix HT : 100 000 DA
+- TVA (19%) : 19 000 DA
+- Prix TTC : 119 000 DA
+
+#### Exemple 2 : Vente avec TVA 9%
+- Prix HT : 100 000 DA
+- TVA (9%) : 9 000 DA
+- Prix TTC : 107 000 DA
+
+### 13.2 Déduction de TVA
+- TVA collectée : 19 000 DA
+- TVA déductible : 10 000 DA
+- TVA à décaisser : 9 000 DA
+
+### 13.3 Crédit de TVA
+- Si TVA déductible > TVA collectée
+- Crédit reportable
+- Possibilité de remboursement (exportateurs)
+
+---
+
+## 14. IBS - CAS PRATIQUES
+
+### 14.1 Calcul de l'IBS
+
+#### Exemple : Bénéfice avant impôt de 1 000 000 DA
+- IBS (19%) : 190 000 DA
+- Bénéfice net : 810 000 DA
+
+### 14.2 Acomptes trimestriels
+- 1er trimestre : 25% de l'IBS estimé
+- 2ème trimestre : 25%
+- 3ème trimestre : 25%
+- Solde : lors du dépôt de la déclaration annuelle
+
+### 14.3 Réintégrations fiscales courantes
+- Amendes et pénalités : 100% réintégration
+- Dons > 2‰ du CA : réintégration du dépassement
+- Charges non justifiées : réintégration totale
+
+---
+
+## 15. RÉCAPITULATIF DES TAUX FISCAUX
+
+| Impôt/Taxe | Taux | Échéance |
+|------------|------|----------|
+| IBS | 19% | Mensuel + annuel |
+| TVA normale | 19% | Mensuelle |
+| TVA réduite | 9% | Mensuelle |
+| TVA export | 0% | Mensuelle |
+| IRG salaires | Barème progressif | Mensuelle |
+| IRG honoraires | 20% | Mensuelle |
+| IRG locations | 10% | Mensuelle |
+| IRG commissions | 15% | Mensuelle |
+| Taxe professionnelle | 0.5% à 2% | Annuelle |
+| Droit de timbre | 1% ou fixe | Par opération |
+| Taxe foncière | 1% à 3% | Annuelle |
+| Cotisation CNAS | 26% patronale | Mensuelle |
+
+---
+
+## 16. DÉLAIS IMPORTANTS
+
+| Obligation | Délai |
+|------------|-------|
+| Déclaration TVA mensuelle | Le 20 du mois N+1 |
+| Paiement TVA | Le 20 du mois N+1 |
+| Déclaration IBS annuelle | Avant le 30 avril N+1 |
+| Acompte IBS mensuel | Le 20 du mois N+1 |
+| Déclaration IRG | Le 20 du mois N+1 |
+| Déclaration taxe professionnelle | Le 30 avril |
+| Paiement taxe professionnelle | Avril et septembre |
+| Déclaration CNAS | Le 30 du mois N+1 |
+| Conservation documents | 10 ans |
+
+---
+
+Ce document constitue un guide complet de la fiscalité algérienne. Il est destiné aux professionnels de la comptabilité, de l'audit et de la fiscalité en Algérie.

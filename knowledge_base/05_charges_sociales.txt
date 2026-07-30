@@ -1,0 +1,619 @@
+# CHARGES SOCIALES EN ALGÉRIE
+## Guide complet des cotisations sociales et des obligations sociales
+
+---
+
+## 1. PRÉSENTATION GÉNÉRALE DES CHARGES SOCIALES
+
+Les charges sociales en Algérie comprennent l'ensemble des cotisations versées par les employeurs et les salariés pour financer la protection sociale.
+
+### 1.1 Organismes sociaux principaux
+- **CNAS** : Caisse Nationale des Assurances Sociales des Travailleurs Salariés
+- **CASNOS** : Caisse Nationale de Sécurité Sociale des Non-Salariés
+- **AMO** : Assurance Maladie Obligatoire
+
+### 1.2 Cadre législatif
+- **Loi n° 83-11 du 2 juillet 1983** : Assurances sociales obligatoires
+- **Loi n° 83-12 du 2 juillet 1983** : Cotisations patronales
+- **Décret exécutif n° 94-08 du 26 janvier 1994** : Taux de cotisations
+- **Loi n° 14-04 du 27 février 2014** : Assurance Maladie Obligatoire
+
+### 1.3 Champ d'application
+Les charges sociales s'appliquent à :
+- Tous les salariés du secteur privé
+- Les fonctionnaires de l'État
+- Les travailleurs indépendants (CASNOS)
+- Les travailleurs non salariés
+
+---
+
+## 2. COTISATIONS CNAS (SALARIÉS)
+
+### 2.1 Assiette de cotisation
+
+#### 2.1.1 Éléments inclus
+- Salaire de base
+- Indemnités de transport
+- Indemnités de logement
+- Primes et gratifications
+- Avantages en nature
+- Heures supplémentaires
+- Indemnités de zone
+
+#### 2.1.2 Éléments exclus
+- Indemnités de licenciement
+- Indemnités de retraite
+- Remboursements de frais professionnels
+- Allocations familiales
+- Indemnités pour charges de famille
+
+#### 2.1.3 Plafond
+- Assiette plafonnée à 10 fois le SMIG (Salaire Minimum Interprofessionnel Garanti)
+- SMIG mensuel : 20 000 DA (2024)
+- Plafond mensuel : 200 000 DA
+
+### 2.2 Taux de cotisation
+
+#### 2.2.1 Part patronale : 26%
+
+| Branche | Taux |
+|---------|------|
+| Assurance maladie, maternité, invalidité et décès | 18% |
+| Retraite | 8% |
+| **Total part patronale** | **26%** |
+
+#### 2.2.2 Part salariale : 1,75%
+
+| Branche | Taux |
+|---------|------|
+| Assurance maladie, maternité, invalidité et décès | 1,25% |
+| Retraite | 0,5% |
+| **Total part salariale** | **1,75%** |
+
+#### 2.2.3 Taux total
+- **Total** : 27,75% (26% patronale + 1,75% salariale)
+
+### 2.3 Répartition des taux par branche
+
+#### 2.3.1 Assurance maladie, maternité, invalidité et décès
+- **Part patronale** : 18%
+- **Part salariale** : 1,25%
+- **Couverture** : soins médicaux, indemnités journalières, allocations familiales
+
+#### 2.3.2 Retraite
+- **Part patronale** : 8%
+- **Part salariale** : 0,5%
+- **Couverture** : pension de retraite, pension de réversion, capital décès
+
+### 2.4 Éléments de calcul
+
+#### 2.4.1 Formule de calcul
+- **Cotisation patronale** = Assiette × 26%
+- **Cotisation salariale** = Assiette × 1,75%
+- **Cotisation totale** = Assiette × 27,75%
+
+#### 2.4.2 Exemple de calcul
+- Salaire brut : 80 000 DA
+- Assiette de cotisation : 80 000 DA
+- Part patronale (26%) : 20 800 DA
+- Part salariale (1,75%) : 1 400 DA
+- Cotisation totale : 22 200 DA
+
+### 2.5 Déclarations sociales
+
+#### 2.5.1 Déclaration mensuelle
+- **Délai** : Le 30 du mois suivant
+- **Formulaire** : Déclaration trimestrielle des salaires
+- **Modalité** : Déclaration en ligne ou sur papier
+
+#### 2.5.2 Déclaration annuelle
+- **Délai** : Avant le 30 avril
+- **Formulaire** : État récapitulatif annuel des salaires
+- **Justificatifs** : Bulletins de paie, relevés mensuels
+
+### 2.6 Paiement des cotisations
+
+#### 2.6.1 Échéancier
+- **Mensuel** : Le 30 du mois suivant
+- **Modalité** : Virement bancaire ou chèque
+
+#### 2.6.2 Pénalités de retard
+- Majoration de 5% en cas de retard
+- Intérêts moratoires de 1% par mois
+- Poursuites en cas de non-paiement
+
+---
+
+## 3. COTISATIONS ALLOCATIONS FAMILIALES (CNAS)
+
+### 3.1 Objet
+La CNAS finance les prestations familiales et les allocations familiales.
+
+### 3.2 Taux de cotisation
+- **Part patronale** : 3% du salaire brut
+- **Part salariale** : 0% (pas de cotisation salariale)
+
+### 3.3 Assiette de cotisation
+- Salaire brut
+- Plafonnée à 10 fois le SMIG
+
+### 3.4 Prestations servies
+- Allocations familiales
+- Allocations de maternité
+- Allocations d'adoption
+- Allocations de soutien familial
+
+---
+
+## 4. COTISATIONS CASNOS (NON-SALARIÉS)
+
+### 4.1 Définition
+La CASNOS (Caisse Nationale de Sécurité Sociale des Non-Salariés) est chargée de la protection sociale des catégories professionnelles non-salariées.
+
+**Base légale** : Ordonnance n°96-17 du 6 juillet 1996 relative à la sécurité sociale des non-salariés, modifiée et complétée.
+
+### 4.2 Champ d'application
+- Commerçants
+- Artisans
+- Professions libérales
+- Agriculteurs
+- Transporteurs indépendants
+- Gérants de SARL/EURL
+- Auto-entrepreneurs
+
+### 4.3 Taux de cotisation (2024-2025)
+
+| Branche | Taux |
+|---------|------|
+| Assurance maladie-maternité | 6,5% |
+| Retraite | 15% |
+| **Total** | **~25%** |
+
+**Note** : Le taux unifié est de 15% (7,5% retraite + 7,5% assurances sociales) selon certaines sources.
+
+### 4.4 Assiette de cotisation
+
+#### Régime réel
+- **Assiette** = Résultat ordinaire + cotisation CASNOS versée à titre personnel (N-1)
+- **Base** : Résultat de l'exercice clos (N-2) déclaré durant l'année (N-1)
+
+#### Régime forfaitaire (IFU)
+- **Assiette** = 35% du chiffre d'affaires + cotisation CASNOS (N-1)
+- Pour le commerce : 75% du CA représente les charges directes
+
+#### Régime simplifié
+- **Assiette** = 25% du chiffre d'affaires + cotisation CASNOS (N-1)
+
+#### Auto-entrepreneur
+- **Forfait annuel** : 24 000 DA/an (soit 2 000 DA/mois)
+- **Plafond CA** : 8 millions DA/an
+- Au-delà : obligé de créer une société (EURL/SARL)
+
+### 4.5 Minimum et maximum
+
+| Catégorie | Assiette annuelle | Cotisation annuelle |
+|-----------|-------------------|---------------------|
+| Auto-entrepreneur | Forfait 24 000 DA | 24 000 DA |
+| Autres non-salariés | 216 000 DA minimum | 32 400 DA minimum |
+| Maximum | 4 320 000 DA | 648 000 DA |
+
+**SNMG 2026** : 24 000 DA/mois
+
+### 4.6 Déclaration et paiement
+- **Déclaration annuelle** : Avant le 1er mars de l'année en cours
+- **Paiement** : Trimestriellement
+- **Échéancier** : Fin du trimestre suivant
+- **Pénalités de retard** : 10% par mois de retard
+
+### 4.7 Prestations servies
+- Assurance maladie-maternité
+- Retraite (pensions, allocations de vieillesse, invalidité, survivants)
+- Allocations familiales (pour les ayants droit)
+
+### 4.8 Organisme
+- **CASNOS** : Caisse Nationale de Sécurité Sociale des Non-Salariés
+- **Adresse** : 5, Passage Abou Hamou Moussa, Alger
+- **Site** : www.casnos.dz
+
+---
+
+## 5. ASSURANCE MALADIE OBLIGATOIRE (AMO)
+
+### 5.1 Définition
+L'AMO est un régime d'assurance maladie obligatoire pour tous les résidents en Algérie.
+
+### 5.2 Champ d'application
+- Salariés du secteur privé
+- Fonctionnaires
+- Travailleurs indépendants
+- Retraités
+- Conjoints et enfants à charge
+
+### 5.3 Taux de cotisation
+
+#### 5.3.1 Salariés du secteur privé
+- **Part patronale** : 18% (incluse dans la CNAS)
+- **Part salariale** : 1,25% (incluse dans la CNAS)
+
+#### 5.3.2 Fonctionnaires
+- **Part patronale** : 18% (CNAS)
+- **Part salariale** : 1,25% (CNAS)
+
+#### 5.3.3 Travailleurs indépendants
+- **Taux** : 5% du revenu imposable
+- **Minimum** : basé sur un revenu minimum forfaitaire
+
+### 5.4 Prestations couvertes
+- Soins médicaux et hospitaliers
+- Médicaments
+- Analyses et examens
+- Interventions chirurgicales
+- Soins dentaires
+- Optique
+
+### 5.5 Taux de remboursement
+- **70%** pour la plupart des actes médicaux
+- **100%** pour certaines maladies chroniques
+- **Forfaitaire** pour certains actes
+
+### 5.6 Plafond de remboursement
+- Plafond annuel de remboursement
+- Ticket modérateur à la charge de l'assuré
+
+---
+
+## 6. ALLOCATIONS FAMILIALES
+
+### 6.1 Conditions d'attribution
+- Salarié du secteur privé
+- Enfants à charge (moins de 17 ans ou 21 ans si étudiant)
+- Résidence en Algérie
+
+### 6.2 Montant des allocations
+
+| Situation | Montant par enfant |
+|-----------|-------------------|
+| 1er enfant | 1 000 DA/mois |
+| 2ème enfant | 1 000 DA/mois |
+| 3ème enfant | 1 000 DA/mois |
+| 4ème enfant et plus | 1 500 DA/mois |
+
+### 6.3 Majorations
+- Allocation de soutien familial
+- Allocation d'adoption
+- Allocation de maternité
+
+---
+
+## 7. RETRAITE
+
+### 7.1 Conditions de départ à la retraite
+
+#### 7.1.1 Âge légal
+- **Hommes** : 60 ans
+- **Femmes** : 55 ans
+- **Départ anticipé** : 55 ans (hommes) et 50 ans (femmes)
+
+#### 7.1.2 Durée de cotisation
+- **Minimum** : 15 ans de cotisation
+- **Maximum** : 35 ans (pension maximale)
+
+### 7.2 Calcul de la pension
+
+#### 7.2.1 Formule de calcul
+- **Pension** = (Dernier salaire × Taux × Durée de cotisation) / 35
+
+#### 7.2.2 Taux de liquidation
+- **Taux** : 2,5% par année de cotisation
+- **Taux maximal** : 87,5% (35 ans de cotisation)
+
+#### 7.2.3 Exemple de calcul
+- Dernier salaire : 100 000 DA
+- Durée de cotisation : 30 ans
+- Pension = (100 000 × 2,5% × 30) / 35 = 64 285 DA
+
+### 7.3 Pension minimale
+- Pension minimale garantie : 20 000 DA (2024)
+- Pension de réversion : 50% de la pension du défunt
+
+---
+
+## 8. INDEMNITÉS JOURNALIÈRES
+
+### 8.1 Conditions d'attribution
+- Maladie ou accident non professionnel
+- Congé de maternité
+- Congé de paternité
+- Hospitalisation
+
+### 8.2 Calcul de l'indemnité
+
+#### 8.2.1 Formule de calcul
+- **Indemnité** = (Salaire de référence × 50%) / 30
+
+#### 8.2.2 Salaire de référence
+- Moyenne des 3 derniers mois de salaire
+- Plafonné à 10 fois le SMIG
+
+#### 8.2.3 Durée maximale
+- **Maladie** : 180 jours par an
+- **Maternité** : 98 jours
+- **Paternité** : 5 jours
+
+### 8.3 Exemple de calcul
+- Salaire de référence : 80 000 DA
+- Indemnité journalière : (80 000 × 50%) / 30 = 1 333 DA/jour
+
+---
+
+## 9. CAPITAL DÉCÈS
+
+### 9.1 Conditions d'attribution
+- Décès du salarié
+- Cotisation d'au moins 12 mois
+- Décès survenu pendant la période de cotisation
+
+### 9.2 Montant du capital
+- **Montant** : 60 fois le salaire moyen des 12 derniers mois
+- **Minimum** : 60 fois le SMIG
+- **Maximum** : 60 fois 10 fois le SMIG
+
+### 9.3 Bénéficiaires
+- Conjoint survivant
+- Enfants à charge
+- Ascendants à charge
+
+---
+
+## 10. CONGÉS PAYÉS
+
+### 10.1 Droit au congé
+- **Durée** : 30 jours par an
+- **Ancienneté** : 6 mois minimum
+- **Indemnité** : 30 jours de salaire
+
+### 10.2 Calcul de l'indemnité
+- **Indemnité** = (Salaire de base × 30) / 26
+
+### 10.3 Congés supplémentaires
+- Congé de maladie
+- Congé de maternité
+- Congé de paternité
+- Congé de décès
+- Congé de mariage
+
+---
+
+## 11. DÉCLARATIONS SOCIALES
+
+### 11.1 Déclaration trimestrielle
+
+#### 11.1.1 Contenu
+- Liste des salariés
+- Salaires déclarés
+- Heures travaillées
+- Cotisations calculées
+
+#### 11.1.2 Délai
+- Le 30 du mois suivant le trimestre
+
+### 11.2 Déclaration annuelle
+
+#### 11.2.1 Contenu
+- État récapitulatif des salaires
+- Total des cotisations versées
+- Justificatifs (bulletins de paie)
+
+#### 11.2.2 Délai
+- Avant le 30 avril
+
+### 11.3 Déclaration allocations familiales
+
+#### 11.3.1 Contenu
+- Liste des salariés avec enfants
+- Montant des allocations familiales
+- Cotisations allocations familiales
+
+#### 11.3.2 Délai
+- Le 30 du mois suivant
+
+---
+
+## 12. PAIEMENT DES COTISATIONS
+
+### 12.1 Modalités de paiement
+- Virement bancaire
+- Chèque
+- Paiement en ligne (e-CNAS)
+
+### 12.2 Échéancier de paiement
+
+| Période | Échéance |
+|---------|----------|
+| Janvier | Le 30 février |
+| Février | Le 30 mars |
+| Mars | Le 30 avril |
+| Avril | Le 30 mai |
+| Mai | Le 30 juin |
+| Juin | Le 30 juillet |
+| Juillet | Le 30 août |
+| Août | Le 30 septembre |
+| Septembre | Le 30 octobre |
+| Octobre | Le 30 novembre |
+| Novembre | Le 30 décembre |
+| Décembre | Le 30 janvier |
+
+### 12.3 Pénalités de retard
+- Majoration de 5% en cas de retard
+- Intérêts moratoires de 1% par mois
+- Poursuites en cas de non-paiement
+
+---
+
+## 13. CONTRÔLE DES COTISATIONS
+
+### 13.1 Contrôle sur pièces
+- Vérification des déclarations
+- Rapprochement avec la comptabilité
+- Analyse des anomalies
+
+### 13.2 Contrôle sur place
+- Inspection dans les locaux de l'entreprise
+- Examen des livres et documents
+- Entretien avec le responsable
+
+### 13.3 Redressement
+- Notification du redressement
+- Droit de réponse du contribuable
+- Recours contentieux
+
+---
+
+## 14. AVANTAGES SOCIAUX COMPLÉMENTAIRES
+
+### 14.1 Mutuelle d'entreprise
+- Couverture complémentaire
+- Remboursement des soins non couverts
+- Cotisation partagée employeur/salarié
+
+### 14.2 Prévoyance sociale
+- Assurance décès
+- Assurance invalidité
+- Assurance incapacité de travail
+
+### 14.3 Retraite supplémentaire
+- Complément de pension
+- Épargne retraite
+- Plans d'épargne entreprise
+
+---
+
+## 15. CHARGES SOCIALES PAR TYPE D'ENTREPRISE
+
+### 15.1 SARL
+
+#### 15.1.1 Charges patronales
+- CNAS : 26%
+- Allocations familiales : 3%
+- Total : 29%
+
+#### 15.1.2 Charges salariales
+- CNAS : 1,75%
+- IRG : barème progressif
+- Total : variable
+
+### 15.2 SPA
+
+#### 15.2.1 Charges patronales
+- CNAS : 26%
+- Allocations familiales : 3%
+- Total : 29%
+
+#### 15.2.2 Charges salariales
+- CNAS : 1,75%
+- IRG : barème progressif
+- Total : variable
+
+### 15.3 Entreprise individuelle
+
+#### 15.3.1 Charges patronales
+- CNAS : 26% (si salariés)
+- Allocations familiales : 3% (si salariés)
+
+#### 15.3.2 Charges pour le dirigeant
+- CASNOS : 15% du résultat (ou forfait 24 000 DA/an pour auto-entrepreneur)
+- AMO : 5% du revenu
+
+---
+
+## 16. CAS PRATIQUES
+
+### 16.1 Calcul des charges sociales
+
+#### Exemple : SARL avec 3 salariés
+
+**Salarié 1 : Chef d'entreprise**
+- Salaire brut : 150 000 DA
+- Part patronale CNAS (26%) : 39 000 DA
+- Part salariale CNAS (1,75%) : 2 625 DA
+- Allocations familiales (3%) : 4 500 DA
+- **Total charges** : 46 125 DA
+
+**Salarié 2 : Comptable**
+- Salaire brut : 80 000 DA
+- Part patronale CNAS (26%) : 20 800 DA
+- Part salariale CNAS (1,75%) : 1 400 DA
+- Allocations familiales (3%) : 2 400 DA
+- **Total charges** : 24 600 DA
+
+**Salarié 3 : Employé**
+- Salaire brut : 40 000 DA
+- Part patronale CNAS (26%) : 10 400 DA
+- Part salariale CNAS (1,75%) : 700 DA
+- Allocations familiales (3%) : 1 200 DA
+- **Total charges** : 12 300 DA
+
+**Total charges patronales pour l'entreprise :**
+- CNAS : 70 200 DA
+- Allocations familiales : 8 100 DA
+- **Total** : 78 300 DA
+
+### 16.2 Déclaration mensuelle
+
+#### Exemple de déclaration CNAS
+- Période : Janvier 2024
+- Nombre de salariés : 3
+- Salaires déclarés : 270 000 DA
+- Cotisation patronale (26%) : 70 200 DA
+- Cotisation salariale (1,75%) : 4 725 DA
+- **Total à payer** : 74 925 DA
+
+---
+
+## 17. OBLIGATIONS DE L'EMPLOYEUR
+
+### 17.1 Obligations déclaratives
+- Déclaration mensuelle des salaires
+- Déclaration annuelle récapitulative
+- Déclaration des allocations familiales
+- Déclaration des accidents du travail
+
+### 17.2 Obligations de paiement
+- Paiement mensuel des cotisations
+- Paiement des allocations familiales
+- Paiement des indemnités journalières
+
+### 17.3 Obligations de documentation
+- Tenue du livre de paie
+- Conservation des bulletins de paie
+- Archivage des déclarations
+- Mise à disposition des documents
+
+---
+
+## 18. RÉCAPITULATIF DES TAUX DE COTISATIONS
+
+| Cotisation | Part patronale | Part salariale | Total |
+|------------|---------------|---------------|-------|
+| CNAS Assurance maladie | 18% | 1,25% | 19,25% |
+| CNAS Retraite | 8% | 0,5% | 8,5% |
+| **CNAS Total** | **26%** | **1,75%** | **27,75%** |
+| Allocations familiales | 3% | 0% | 3% |
+| **Total** | **29%** | **1,75%** | **30,75%** |
+
+---
+
+## 19. DATES IMPORTANTES
+
+| Obligation | Échéance |
+|------------|----------|
+| Déclaration CNAS mensuelle | Le 30 du mois N+1 |
+| Paiement CNAS | Le 30 du mois N+1 |
+| Déclaration allocations familiales | Le 30 du mois N+1 |
+| Déclaration annuelle | Avant le 30 avril |
+| Déclaration CASNOS | Avant le 30 juin |
+| Paiement CASNOS | Trimestriel |
+
+---
+
+Ce document constitue une référence complète des charges sociales en Algérie. Il est destiné aux gestionnaires de paie, aux comptables et aux entrepreneurs en Algérie.
