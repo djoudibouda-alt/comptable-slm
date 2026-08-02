@@ -1,0 +1,638 @@
+# COMPTABILITÉ BANCAIRE EN ALGÉRIE
+## Guide de la comptabilité bancaire et des opérations financières
+
+---
+
+## 1. PRÉSENTATION GÉNÉRALE
+
+### 1.1 Définition
+La comptabilité bancaire est l'ensemble des règles et procédures comptables applicables aux opérations bancaires et financières en Algérie.
+
+### 1.2 Cadre réglementaire
+- **Loi n° 90-10 du 3 avril 1990** : Activité et contrôle des établissements de crédit
+- **Décret exécutif n° 92-09 du 26 janvier 1992** : Règlement relatif aux opérations des banques
+- **Circulaire Banque Centrale** : Instructions relatives à la comptabilité bancaire
+- **Normes internationales** : IFRS 9 (Instruments financiers)
+
+### 1.3 Objectifs
+- Tenir une comptabilité régulière et sincère
+- Assurer la traçabilité des opérations
+- Garantir la sécurité des transactions
+- Respecter les obligations réglementaires
+
+---
+
+## 2. BANQUES ALGÉRIENNES
+
+### 2.1 Principales banques
+
+#### 2.1.1 Banques publiques
+- **BNA** (Banque Nationale d'Algérie)
+- **BADR** (Banque Algérienne de Développement Rural)
+- **BEA** (Banque Extérieure d'Algérie)
+- **CPA** (Crédit Populaire d'Algérie)
+- **CNEP** (Crédit National d'Épargne et de Prévoyance)
+
+#### 2.1.2 Banques privées
+- **BCP** (Banque de Commerce et de Placements)
+- **BPF** (Banque Privée de Finance)
+- **BTCP** (Banque de Travail et de Crédit Populaire)
+- **BEA** (Banque d'Épargne et d'Action)
+
+### 2.2 Services bancaires
+- Comptes courants
+- Comptes d'épargne
+- Crédits
+- Effets de commerce
+- Opérations de change
+- Services de paiement
+
+---
+
+## 3. COMPTES BANCAIRES
+
+### 3.1 Types de comptes
+
+#### 3.1.1 Compte courant
+- **Utilisation** : opérations courantes
+- **Découvert** : autorisé sous conditions
+- **Frais** : commission sur mouvements
+
+#### 3.1.2 Compte d'épargne
+- **Utilisation** : épargne
+- **Rémunération** : taux variable
+- **Frais** : généralement gratuits
+
+#### 3.1.3 Compte à terme
+- **Utilisation** : épargne à moyen terme
+- **Rémunération** : taux fixe
+- **Durée** : 3 à 12 mois
+
+### 3.2 Numérotation des comptes
+
+#### 3.2.1 Structure du RIB
+- **Code banque** : 3 chiffres
+- **Code agence** : 4 chiffres
+- **Numéro de compte** : 11 chiffres
+- **Clé de contrôle** : 2 chiffres
+
+#### 3.2.2 Exemple de RIB
+```
+Code banque : 012 (BNA)
+Code agence : 0045
+Numéro de compte : 00012345678
+Clé de contrôle : 12
+RIB : 01200450001234567812
+```
+
+---
+
+## 4. OPÉRATIONS DE TRÉSORERIE
+
+### 4.1 Opérations de caisse
+
+#### 4.1.1 Encaissements
+```
+Débit: 521 Caisse
+Crédit: 411 Clients
+```
+
+**Exemple :**
+- Encaissement client : 500 000 DA
+```
+Débit: 521 Caisse 500 000 DA
+Crédit: 411 Clients 500 000 DA
+```
+
+#### 4.1.2 Décaissements
+```
+Débit: 606 Achats de fournitures administratives
+Crédit: 521 Caisse
+```
+
+**Exemple :**
+- Achat fournitures : 50 000 DA
+```
+Débit: 606 Achats de fournitures administratives 50 000 DA
+Crédit: 521 Caisse 50 000 DA
+```
+
+### 4.2 Opérations bancaires
+
+#### 4.2.1 Versements
+```
+Débit: 512 Banque
+Crédit: 521 Caisse
+```
+
+**Exemple :**
+- Dépôt en banque : 200 000 DA
+```
+Débit: 512 Banque 200 000 DA
+Crédit: 521 Caisse 200 000 DA
+```
+
+#### 4.2.2 Retraits
+```
+Débit: 521 Caisse
+Crédit: 512 Banque
+```
+
+**Exemple :**
+- Retrait bancaire : 100 000 DA
+```
+Débit: 521 Caisse 100 000 DA
+Crédit: 512 Banque 100 000 DA
+```
+
+#### 4.2.3 Virements
+```
+Débit: 512 Banque (récepteur)
+Crédit: 411 Clients
+```
+
+**Exemple :**
+- Virement client : 300 000 DA
+```
+Débit: 512 Banque 300 000 DA
+Crédit: 411 Clients 300 000 DA
+```
+
+### 4.3 Chèques
+
+#### 4.3.1 Émission de chèque
+```
+Débit: 411 Fournisseurs
+Crédit: 512 Banque
+```
+
+**Exemple :**
+- Chèque fournisseur : 150 000 DA
+```
+Débit: 411 Fournisseurs 150 000 DA
+Crédit: 512 Banque 150 000 DA
+```
+
+#### 4.3.2 Réception de chèque
+```
+Débit: 512 Banque
+Crédit: 411 Clients
+```
+
+**Exemple :**
+- Chèque client : 250 000 DA
+```
+Débit: 512 Banque 250 000 DA
+Crédit: 411 Clients 250 000 DA
+```
+
+#### 4.3.3 Chèque impayé
+```
+Débit: 411 Clients
+Crédit: 512 Banque
+```
+
+**Exemple :**
+- Chèque impayé : 100 000 DA
+```
+Débit: 411 Clients 100 000 DA
+Crédit: 512 Banque 100 000 DA
+```
+
+### 4.4 Effets de commerce
+
+#### 4.4.1 Lettre de change émise
+```
+Débit: 417 Effets à recevoir
+Crédit: 411 Clients
+```
+
+**Exemple :**
+- Lettre de change : 200 000 DA
+```
+Débit: 417 Effets à recevoir 200 000 DA
+Crédit: 411 Clients 200 000 DA
+```
+
+#### 4.4.2 Lettre de change encaissée
+```
+Débit: 512 Banque
+Crédit: 417 Effets à recevoir
+```
+
+**Exemple :**
+- Encaissement effet : 200 000 DA
+```
+Débit: 512 Banque 200 000 DA
+Crédit: 417 Effets à recevoir 200 000 DA
+```
+
+#### 4.4.3 Lettre de change protestée
+```
+Débit: 411 Clients
+Crédit: 417 Effets à recevoir
+```
+
+**Exemple :**
+- Effet protesté : 200 000 DA
+```
+Débit: 411 Clients 200 000 DA
+Crédit: 417 Effets à recevoir 200 000 DA
+```
+
+---
+
+## 5. OPÉRATIONS DE CRÉDIT
+
+### 5.1 Crédit à court terme
+
+#### 5.1.1 Découvert bancaire
+```
+Débit: 512 Banque
+Crédit: 518 Banques - Avances et découverts
+```
+
+**Exemple :**
+- Découvert autorisé : 500 000 DA
+```
+Débit: 512 Banque 500 000 DA
+Crédit: 518 Banques - Avances et découverts 500 000 DA
+```
+
+#### 5.1.2 Remboursement découvert
+```
+Débit: 518 Banques - Avances et découverts
+Crédit: 512 Banque
+```
+
+**Exemple :**
+- Remboursement : 200 000 DA
+```
+Débit: 518 Banques - Avances et découverts 200 000 DA
+Crédit: 512 Banque 200 000 DA
+```
+
+### 5.2 Crédit à moyen terme
+
+#### 5.2.1 Obtention du prêt
+```
+Débit: 512 Banque
+Crédit: 151 Emprunts auprès des établissements de crédit
+```
+
+**Exemple :**
+- Prêt moyen terme : 5 000 000 DA
+```
+Débit: 512 Banque 5 000 000 DA
+Crédit: 151 Emprunts auprès des établissements de crédit 5 000 000 DA
+```
+
+#### 5.2.2 Remboursement du prêt
+```
+Débit: 151 Emprunts auprès des établissements de crédit
+Crédit: 512 Banque
+```
+
+**Exemple :**
+- Remboursement échéance : 500 000 DA
+```
+Débit: 151 Emprunts auprès des établissements de crédit 500 000 DA
+Crédit: 512 Banque 500 000 DA
+```
+
+### 5.3 Crédit à long terme
+
+#### 5.3.1 Obtention du prêt
+```
+Débit: 512 Banque
+Crédit: 153 Emprunts à long terme
+```
+
+**Exemple :**
+- Prêt long terme : 20 000 000 DA
+```
+Débit: 512 Banque 20 000 000 DA
+Crédit: 153 Emprunts à long terme 20 000 000 DA
+```
+
+#### 5.3.2 Remboursement du prêt
+```
+Débit: 153 Emprunts à long terme
+Crédit: 512 Banque
+```
+
+**Exemple :**
+- Remboursement annuel : 2 000 000 DA
+```
+Débit: 153 Emprunts à long terme 2 000 000 DA
+Crédit: 512 Banque 2 000 000 DA
+```
+
+---
+
+## 6. INTÉRÊTS ET COMMISSIONS
+
+### 6.1 Intérêts débiteurs
+
+#### 6.1.1 Constatation des intérêts
+```
+Débit: 661 Charges d'intérêts
+Crédit: 512 Banque
+```
+
+**Exemple :**
+- Intérêts découvert : 25 000 DA
+```
+Débit: 661 Charges d'intérêts 25 000 DA
+Crédit: 512 Banque 25 000 DA
+```
+
+### 6.2 Intérêts créditeurs
+
+#### 6.2.1 Constatation des intérêts
+```
+Débit: 512 Banque
+Crédit: 761 Revenus des prêts
+```
+
+**Exemple :**
+- Intérêts épargne : 10 000 DA
+```
+Débit: 512 Banque 10 000 DA
+Crédit: 761 Revenus des prêts 10 000 DA
+```
+
+### 6.3 Commissions bancaires
+
+#### 6.3.1 Commission sur opérations
+```
+Débit: 626 Services bancaires
+Crédit: 512 Banque
+```
+
+**Exemple :**
+- Commission virement : 500 DA
+```
+Débit: 626 Services bancaires 500 DA
+Crédit: 512 Banque 500 DA
+```
+
+---
+
+## 7. OPÉRATIONS DE CHANGE
+
+### 7.1 Achat de devises
+
+#### 7.1.1 Constatation
+```
+Débit: 512 Banque (devises)
+Crédit: 512 Banque (DA)
+```
+
+**Exemple :**
+- Achat 1 000 USD au taux de 135 DA/USD
+```
+Débit: 512 Banque (USD) 135 000 DA
+Crédit: 512 Banque (DA) 135 000 DA
+```
+
+### 7.2 Vente de devises
+
+#### 7.2.1 Constatation
+```
+Débit: 512 Banque (DA)
+Crédit: 512 Banque (devises)
+```
+
+**Exemple :**
+- Vente 500 EUR au taux de 145 DA/EUR
+```
+Débit: 512 Banque (DA) 72 500 DA
+Crédit: 512 Banque (EUR) 72 500 DA
+```
+
+### 7.3 Écarts de conversion
+
+#### 7.3.1 Constatation des écarts positifs
+```
+Débit: 512 Banque
+Crédit: 776 Écarts de conversion (actif)
+```
+
+**Exemple :**
+- Gain sur change : 10 000 DA
+```
+Débit: 512 Banque 10 000 DA
+Crédit: 776 Écarts de conversion (actif) 10 000 DA
+```
+
+#### 7.3.2 Constatation des écarts négatifs
+```
+Débit: 662 Pertes de change
+Crédit: 512 Banque
+```
+
+**Exemple :**
+- Perte sur change : 5 000 DA
+```
+Débit: 662 Pertes de change 5 000 DA
+Crédit: 512 Banque 5 000 DA
+```
+
+---
+
+## 8. RAPPROCHEMENT BANCAIRE
+
+### 8.1 Définition
+Le rapprochement bancaire est la procédure permettant de vérifier la concordance entre le solde du compte bancaire (relevé) et le solde du compte 512 dans la comptabilité.
+
+### 8.2 Éléments de rapprochement
+
+#### 8.2.1 Écarts à régulariser
+- Chèques émis non présentés
+- Virements non comptabilisés
+- Commissions bancaires non comptabilisées
+- Intérêts non comptabilisés
+
+#### 8.2.2 Écritures de régularisation
+
+**Chèque émis non présenté :**
+```
+Aucune écriture (report)
+```
+
+**Commission bancaire non comptabilisée :**
+```
+Débit: 626 Services bancaires
+Crédit: 512 Banque
+```
+
+**Virement non comptabilisé :**
+```
+Débit: 512 Banque
+Crédit: 411 Clients
+```
+
+### 8.3 Cas pratiques
+
+#### Cas 1 : Rapprochement mensuel
+- Solde relevé bancaire : 1 500 000 DA
+- Solde comptable : 1 450 000 DA
+- Écarts :
+  - Chèque non présenté : 80 000 DA
+  - Virement non comptabilisé : 50 000 DA
+  - Commission : 2 000 DA
+- Solde rapproché : 1 500 000 DA
+
+#### Cas 2 : Régularisation
+```
+Débit: 626 Services bancaires 2 000 DA
+Crédit: 512 Banque 2 000 DA
+```
+
+---
+
+## 9. INSTRUMENTS FINANCIERS
+
+### 9.1 Titres de placement
+
+#### 9.1.1 Acquisition
+```
+Débit: 501 Valeurs mobilières de placement
+Crédit: 512 Banque
+```
+
+**Exemple :**
+- Achat titres : 1 000 000 DA
+```
+Débit: 501 Valeurs mobilières de placement 1 000 000 DA
+Crédit: 512 Banque 1 000 000 DA
+```
+
+#### 9.1.2 Cession
+```
+Débit: 512 Banque
+Débit/Crédit: 772/662 Produits/Charges sur cession
+Crédit: 501 Valeurs mobilières de placement
+```
+
+**Exemple :**
+- Vente titres : 1 200 000 DA (coût 1 000 000 DA)
+```
+Débit: 512 Banque 1 200 000 DA
+Crédit: 501 Valeurs mobilières de placement 1 000 000 DA
+Crédit: 772 Produits des autres titres 200 000 DA
+```
+
+### 9.2 Bons de caisse
+
+#### 9.2.1 Acquisition
+```
+Débit: 502 Bons de caisse à court terme
+Crédit: 512 Banque
+```
+
+#### 9.2.2 Remboursement
+```
+Débit: 512 Banque
+Crédit: 502 Bons de caisse à court terme
+```
+
+---
+
+## 10. ÉCRITURES DIVERSES
+
+### 10.1 Frais bancaires
+
+#### 10.1.1 Constatation
+```
+Débit: 626 Services bancaires
+Crédit: 512 Banque
+```
+
+**Exemple :**
+- Frais de dossier : 10 000 DA
+```
+Débit: 626 Services bancaires 10 000 DA
+Crédit: 512 Banque 10 000 DA
+```
+
+### 10.2 Pénalités de retard
+
+#### 10.2.1 Constatation
+```
+Débit: 661 Charges d'intérêts
+Crédit: 512 Banque
+```
+
+**Exemple :**
+- Pénalité : 5 000 DA
+```
+Débit: 661 Charges d'intérêts 5 000 DA
+Crédit: 512 Banque 5 000 DA
+```
+
+### 10.3 Escomptes
+
+#### 10.3.1 Escompte commercial
+```
+Débit: 512 Banque
+Débit: 654 Escomptes accordés
+Crédit: 411 Clients
+```
+
+**Exemple :**
+- Encaissement avec escompte : 95 000 DA (escompte 5 000 DA)
+```
+Débit: 512 Banque 95 000 DA
+Débit: 654 Escomptes accordés 5 000 DA
+Crédit: 411 Clients 100 000 DA
+```
+
+#### 10.3.2 Escompte bancaire
+```
+Débit: 512 Banque
+Débit: 661 Charges d'intérêts
+Crédit: 417 Effets à recevoir
+```
+
+**Exemple :**
+- Escompte bancaire : 190 000 DA (frais 10 000 DA)
+```
+Débit: 512 Banque 190 000 DA
+Débit: 661 Charges d'intérêts 10 000 DA
+Crédit: 417 Effets à recevoir 200 000 DA
+```
+
+---
+
+## 11. TABLEAU RÉCAPITULATIF
+
+| Opération | Débit | Crédit |
+|-----------|-------|--------|
+| Encaissement client | 521/512 | 411 |
+| Décaissement fournisseur | 411 | 521/512 |
+| Dépôt en banque | 512 | 521 |
+| Retrait bancaire | 521 | 512 |
+| Émission chèque | 411 | 512 |
+| Réception chèque | 512 | 411 |
+| Chèque impayé | 411 | 512 |
+| Lettre de change émise | 417 | 411 |
+| Lettre de change encaissée | 512 | 417 |
+| Découvert bancaire | 512 | 518 |
+| Remboursement découvert | 518 | 512 |
+| Obtention prêt | 512 | 151/153 |
+| Remboursement prêt | 151/153 | 512 |
+| Intérêts débiteurs | 661 | 512 |
+| Intérêts créditeurs | 512 | 761 |
+| Commissions bancaires | 626 | 512 |
+| Achat devises | 512 (devises) | 512 (DA) |
+| Vente devises | 512 (DA) | 512 (devises) |
+| Écart de conversion positif | 512 | 776 |
+| Écart de conversion négatif | 662 | 512 |
+| Acquisition titres | 501 | 512 |
+| Cession titres | 512 | 501/772 |
+
+---
+
+Ce document constitue une référence complète pour la comptabilité bancaire en Algérie. Il permet de maîtriser les opérations de trésorerie, les crédits et les instruments financiers conformément au Plan Comptable National.

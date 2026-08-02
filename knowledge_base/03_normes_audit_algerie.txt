@@ -444,10 +444,182 @@ Les normes internationales d'audit constituent le référentiel pour l'exercice 
 - Communication avec la direction
 - Communication avec les tiers
 
-### 10.2 Normes algériennes d'audit
+### 10.2 Principales normes ISA détaillées
+
+#### ISA 200 - Objectifs généraux de l'auditeur
+L'auditeur doit :
+- Obtenir une assurance raisonnable que les comptes annuels ne contiennent pas d'anomalie significative
+- Émettre un rapport sur les comptes annuels
+- Évaluer le caractère satisfaisant des méthodes comptables utilisées
+- Apprécier la présentation d'ensemble des comptes annuels
+
+#### ISA 210 - Accord sur les termes de la mission
+L'auditeur doit :
+- Établir un accord avec la direction sur les termes de la mission
+- Inclure les objectifs de la mission
+- Définir les responsabilités de l'auditeur et de la direction
+- Préciser la forme des rapports
+
+#### ISA 220 - Qualité des missions d'audit
+L'auditeur doit :
+- Mettre en place un système de contrôle qualité
+- Assurer la compétence de l'équipe d'audit
+- Surveiller le déroulement de la mission
+- Évaluer les travaux d'audit
+
+#### ISA 230 - Documentation d'audit
+L'auditeur doit :
+- Documenter les informations obtenues
+- Justifier les procédures d'audit réalisées
+- Conserver la documentation pendant 10 ans minimum
+- Démontrer que l'audit a été réalisé conformément aux normes
+
+#### ISA 240 - Responsabilités de l'auditeur concernant la fraude
+L'auditeur doit :
+- Évaluer le risque de fraude
+- Mettre en place des procédures pour détecter les fraudes
+- Répondre aux anomalies détectées
+- Informer la direction et les tiers compétents
+
+#### ISA 250 - Considérations légales et réglementaires
+L'auditeur doit :
+- Obtenir l'assurance raisonnable que les comptes annuels ne contiennent pas de violation
+- Identifier les violations potentielles
+- Évaluer l'incidence des violations sur les comptes annuels
+- Communiquer les violations à la direction
+
+#### ISA 260 - Communication avec les responsables de la gouvernance
+L'auditeur doit :
+- Communiquer ses observations aux responsables de la gouvernance
+- Informer sur les responsabilités de l'audit
+- Discuter des questions importantes d'audit
+- Fournir des informations sur les désaccords avec la direction
+
+#### ISA 300 - Planification de l'audit
+L'auditeur doit :
+- Établir une stratégie d'audit
+- Élaborer un plan d'audit
+- Définir la nature, l'étendue et la timing des procédures
+- Allouer les ressources appropriées
+
+#### ISA 315 - Évaluation des risques et réponse
+L'auditeur doit :
+- Comprendre l'entité et son environnement
+- Évaluer les risques d'anomalie significative
+- Identifier les risques au niveau des assertions
+- Concevoir et mettre en œuvre des réponses aux risques
+
+#### ISA 320 - Évaluation de la significativité
+L'auditeur doit :
+- Évaluer la significativité pour déterminer la nature, l'étendue et le timing des procédures
+- Prendre en compte les besoins des utilisateurs des comptes annuels
+- Réviser la significativité au cours de l'audit
+
+#### ISA 330 - Réponse de l'auditeur aux risques évalués
+L'auditeur doit :
+- Concevoir et mettre en œuvre des procédures d'audit
+- Obtenir des preuves d'audit appropriées et suffisantes
+- Évaluer les résultats des procédures
+
+#### ISA 402 - Audit d'une entité utilisant les services d'un organisme de services
+L'auditeur doit :
+- Comprendre les services fournis par l'organisme
+- Évaluer les risques liés à l'utilisation de ces services
+- Répondre aux risques identifiés
+
+#### ISA 450 - Évaluation des anomalies détectées
+L'auditeur doit :
+- Évaluer l'incidence des anomalies
+- Déterminer si elles sont significatives
+- Réviser la classification des anomalies
+
+#### ISA 500 - Preuve d'audit
+L'auditeur doit :
+- Obtenir des preuves d'audit appropriées et suffisantes
+- Utiliser des procédures d'audit pour obtenir des preuves
+- Évaluer la fiabilité des preuves obtenues
+
+#### ISA 505 - Confirmations externes
+L'auditeur doit :
+- Obtenir des preuves par confirmation externe
+- Concevoir les procédures de confirmation
+- Évaluer les réponses obtenues
+
+#### ISA 510 - Procédures d'audit initiales
+L'auditeur doit :
+- Évaluer la fiabilité des systèmes d'information
+- Tester l'efficacité des contrôles
+- Évaluer les risques d'anomalie significative
+
+#### ISA 520 - Procédures analytiques
+L'auditeur doit :
+- Utiliser des procédures analytiques comme procédures d'audit substantives
+- Évaluer les résultats des procédures analytiques
+
+#### ISA 530 - Échantillonnage d'audit
+L'auditeur doit :
+- Concevoir un échantillon d'audit
+- Sélectionner les éléments à tester
+- Évaluer les résultats de l'échantillonnage
+
+#### ISA 540 - Audit des estimations comptables
+L'auditeur doit :
+- Évaluer la raisonabilité des estimations comptables
+- Obtenir des preuves d'audit appropriées
+- Évaluer l'incidence des estimations sur les comptes annuels
+
+#### ISA 600 - Travail spécifique de l'auditeur du consolidé
+L'auditeur doit :
+- Comprendre le processus de consolidation
+- Évaluer les hypothèses de consolidation
+- Obtenir des preuves sur la consolidation
+
+#### ISA 610 - Travail d'audit interne
+L'auditeur doit :
+- Évaluer le travail de l'audit interne
+- Utiliser le travail de l'audit interne si approprié
+- Documenter l'utilisation du travail de l'audit interne
+
+#### ISA 700 - Formulation d'une opinion et rédaction d'un rapport
+L'auditeur doit :
+- Émettre une opinion sur les comptes annuels
+- Rédiger un rapport d'audit
+- Inclure les mentions légales
+
+#### ISA 701 - Modifications du rapport d'audit standard
+L'auditeur doit :
+- Modifier le rapport en cas de circonstances particulières
+- Inclure des paragraphes explicatifs
+- Justifier les modifications
+
+#### ISA 705 - Modifications de l'opinion
+L'auditeur doit :
+- Modifier l'opinion en cas d'anomalies significatives
+- Justifier les modifications
+- Inclure les paragraphes de modification
+
+#### ISA 706 - Paragraphes explicatifs et autres informations
+L'auditeur doit :
+- Inclure des paragraphes explicatifs si nécessaire
+- Communiquer des informations supplémentaires
+- Justifier les ajouts
+
+#### ISA 710 - Informations comparatives
+L'auditeur doit :
+- Évaluer l'exactitude des informations comparatives
+- Inclure les informations comparatives dans le rapport
+- Justifier les différences
+
+#### ISA 720 - Autres informations
+L'auditeur doit :
+- Lire les autres informations
+- Évaluer la cohérence avec les comptes annuels
+- Communiquer les écarts éventuels
+
+### 10.3 Normes algériennes d'audit
 L'Algérie a adopté des normes d'audit adaptées à son contexte économique et juridique.
 
-#### 10.2.1 Caractéristiques
+#### 10.3.1 Caractéristiques
 - Compatibilité avec les normes internationales
 - Adaptation au cadre légal algérien
 - Prise en compte des spécificités locales

@@ -215,6 +215,29 @@ La CASNOS (Caisse Nationale de Sécurité Sociale des Non-Salariés) est chargé
 - **Adresse** : 5, Passage Abou Hamou Moussa, Alger
 - **Site** : www.casnos.dz
 
+### 4.9 Cas pratiques CASNOS
+
+#### Cas 1 : Commerçant en régime réel
+- Chiffre d'affaires annuel : 5 000 000 DA
+- Charges : 4 000 000 DA
+- Résultat : 1 000 000 DA
+- Cotisation CASNOS (2024) : versée l'année précédente : 50 000 DA
+- Assiette : 1 000 000 + 50 000 = 1 050 000 DA
+- Cotisation 2025 : 1 050 000 × 15% = 157 500 DA
+- Paiement trimestriel : 39 375 DA
+
+#### Cas 2 : Auto-entrepreneur
+- Chiffre d'affaires annuel : 3 000 000 DA
+- Forfait : 24 000 DA/an
+- Paiement trimestriel : 6 000 DA
+
+#### Cas 3 : Profession libérale (médecin)
+- Honoraires annuels : 8 000 000 DA
+- Charges : 6 000 000 DA
+- Résultat : 2 000 000 DA
+- Assiette : 2 000 000 DA
+- Cotisation : 300 000 DA
+
 ---
 
 ## 5. ASSURANCE MALADIE OBLIGATOIRE (AMO)

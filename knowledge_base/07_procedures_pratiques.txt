@@ -890,4 +890,227 @@ Crédit: 190 Report à nouveau 475 000 DA
 
 ---
 
+## 19. ÉCRITURES COMPLEXES
+
+### 19.1 Constatation des provisions pour dépréciation des stocks
+
+#### 19.1.1 Provision pour dépréciation de stocks de marchandises
+```
+Débit: 656 Charges des provisions
+Crédit: 490 Provisions pour dépréciation de stocks de marchandises
+```
+
+**Exemple :**
+- Stock de marchandises : 500 000 DA
+- Valeur nette de réalisation : 450 000 DA
+- Provision : 50 000 DA
+
+```
+Débit: 656 Charges des provisions 50 000 DA
+Crédit: 490 Provisions pour dépréciation de stocks de marchandises 50 000 DA
+```
+
+### 19.2 Constatation des provisions pour créances douteuses
+
+#### 19.2.1 Provision pour créances douteuses
+```
+Débit: 656 Charges des provisions
+Crédit: 490 Provisions pour dépréciation de comptes clients
+```
+
+**Exemple :**
+- Créances clients : 1 000 000 DA
+- Créances douteuses estimées : 5% soit 50 000 DA
+
+```
+Débit: 656 Charges des provisions 50 000 DA
+Crédit: 490 Provisions pour dépréciation de comptes clients 50 000 DA
+```
+
+### 19.3 Constatation des charges constatées d'avance
+
+#### 19.3.1 Charges constatées d'avance
+```
+Débit: 480 Charges constatées d'avance
+Crédit: 6xx Charges correspondantes
+```
+
+**Exemple :**
+- Loyer payé d'avance : 60 000 DA (pour 6 mois)
+- Part à reporter : 30 000 DA
+
+```
+Débit: 480 Charges constatées d'avance 30 000 DA
+Crédit: 615 Locations et charges locatives 30 000 DA
+```
+
+### 19.4 Constatation des produits constatés d'avance
+
+#### 19.4.1 Produits constatés d'avance
+```
+Débit: 7xx Produits correspondants
+Crédit: 170 Produits constatés d'avance
+```
+
+**Exemple :**
+- Loyer reçu d'avance : 60 000 DA (pour 6 mois)
+- Part à reporter : 30 000 DA
+
+```
+Débit: 512 Banque 60 000 DA
+Crédit: 170 Produits constatés d'avance 30 000 DA
+Crédit: 701 Ventes de marchandises 30 000 DA
+```
+
+### 19.5 Constatation des charges à payer
+
+#### 19.5.1 Charges à payer
+```
+Débit: 6xx Charges correspondantes
+Crédit: 171 Charges à payer
+```
+
+**Exemple :**
+- Facture d'électricité à payer : 15 000 DA
+
+```
+Débit: 615 Locations et charges locatives 15 000 DA
+Crédit: 171 Charges à payer 15 000 DA
+```
+
+### 19.6 Constatation des produits à recevoir
+
+#### 19.6.1 Produits à recevoir
+```
+Débit: 172 Produits à recevoir
+Crédit: 7xx Produits correspondants
+```
+
+**Exemple :**
+- Facture à émettre : 50 000 DA
+
+```
+Débit: 172 Produits à recevoir 50 000 DA
+Crédit: 701 Ventes de marchandises 50 000 DA
+```
+
+### 19.7 Écritures de régularisation de fin d'exercice
+
+#### 19.7.1 Régularisation des stocks
+- Stock initial : 200 000 DA
+- Stock final : 250 000 DA
+- Variation : +50 000 DA
+
+```
+Débit: 38x Variation de stocks 50 000 DA
+Crédit: 72x Variation de stocks de produits 50 000 DA
+```
+
+#### 19.7.2 Régularisation des amortissements
+- Amortissement annuel : 100 000 DA
+
+```
+Débit: 681x Dotations aux amortissements d'exploitation 100 000 DA
+Crédit: 28x Amortissements des immobilisations 100 000 DA
+```
+
+### 19.8 Écritures de clôture
+
+#### 19.8.1 Transfert des comptes de charges
+- Total des charges : 5 000 000 DA
+
+```
+Débit: 820 Résultat de l'exercice (bénéfice) 5 000 000 DA
+Crédit: 6xx Tous les comptes de charges 5 000 000 DA
+```
+
+#### 19.8.2 Transfert des comptes de produits
+- Total des produits : 7 000 000 DA
+
+```
+Débit: 7xx Tous les comptes de produits 7 000 000 DA
+Crédit: 820 Résultat de l'exercice (bénéfice) 7 000 000 DA
+```
+
+#### 19.8.3 Résultat de l'exercice
+- Résultat : 2 000 000 DA (bénéfice)
+
+```
+Débit: 820 Résultat de l'exercice (bénéfice) 2 000 000 DA
+Crédit: 120 Réserves légales 100 000 DA
+Crédit: 121 Report à nouveau 1 900 000 DA
+```
+
+### 19.9 Écritures de cession d'immobilisations
+
+#### 19.9.1 Vente d'un véhicule
+- Véhicule : valeur d'acquisition 1 000 000 DA
+- Amortissements cumulés : 600 000 DA
+- Prix de vente : 500 000 DA
+
+```
+Débit: 512 Banque 500 000 DA
+Débit: 283 Amortissements du matériel et outillage 600 000 DA
+Crédit: 215 Matériel de transport 1 000 000 DA
+Crédit: 771 Produits exceptionnels sur opérations courantes 100 000 DA
+```
+
+### 19.10 Écritures de rapprochement bancaire
+
+#### 19.10.1 Rapprochement bancaire
+- Solde du relevé bancaire : 1 500 000 DA
+- Solde du livre de caisse : 1 400 000 DA
+- Écarts à régulariser :
+  - Chèque émis non présenté : 50 000 DA
+  - Virement non comptabilisé : 30 000 DA
+  - Commission bancaire : 2 000 DA
+
+```
+Débit: 626 Services bancaires 2 000 DA
+Crédit: 512 Banque 2 000 DA
+```
+
+### 19.11 Écritures de révision comptable
+
+#### 19.11.1 Révision des comptes clients
+- Créances clients : 2 000 000 DA
+- Créances douteuses : 100 000 DA
+
+```
+Débit: 656 Charges des provisions 100 000 DA
+Crédit: 490 Provisions pour dépréciation de comptes clients 100 000 DA
+```
+
+#### 19.11.2 Révision des comptes fournisseurs
+- Dettes fournisseurs : 1 500 000 DA
+- Factures non parvenues : 50 000 DA
+
+```
+Débit: 6xx Charges correspondantes 50 000 DA
+Crédit: 408 Fournisseurs - Factures non parvenues 50 000 DA
+```
+
+---
+
+## 20. TABLEAU RÉCAPITULATIF DES ÉCRITURES COMPLEXES
+
+| Opération | Débit | Crédit |
+|-----------|-------|--------|
+| Provision pour dépréciation stocks | 656 | 490 |
+| Provision pour créances douteuses | 656 | 490 |
+| Charges constatées d'avance | 480 | 6xx |
+| Produits constatés d'avance | 7xx | 170 |
+| Charges à payer | 6xx | 171 |
+| Produits à recevoir | 172 | 7xx |
+| Variation de stocks | 38x | 72x |
+| Dotations aux amortissements | 681 | 28x |
+| Transfert des charges | 820 | 6xx |
+| Transfert des produits | 7xx | 820 |
+| Résultat de l'exercice | 820 | 120/121 |
+| Cession d'immobilisation | 512/283 | 215/771 |
+| Rapprochement bancaire | 626 | 512 |
+| Révision comptable | 656/6xx | 490/408 |
+
+---
+
 Ce guide pratique constitue une référence quotidienne pour les comptables et les gestionnaires en Algérie. Il permet de réaliser rapidement les écritures comptables courantes conformément au Plan Comptable National.

@@ -66,6 +66,507 @@ Le plan comptable algérien comprend 9 classes de comptes :
 ### Numérotation des comptes
 Chaque compte est identifié par un code numérique à 3 chiffres minimum, extensible à 5 chiffres ou plus selon les besoins.
 
+### Détail des comptes de la classe 1 - Financement permanent
+
+#### 10 - Capital
+- 101 Capital émis : capital social souscrit et libéré
+- 102 Capital appelé non versé : montant appelé mais non encore versé
+- 103 Versements reçus sur augmentation de capital
+- 104 Capital souscrit non appelé
+
+#### 11 - Réserves
+- 110 Réserve légale : 5% du bénéfice jusqu'à 10% du capital
+- 111 Réserves facultatives
+- 112 Réserves réglementées
+- 113 Écart de conversion
+
+#### 12 - Résultats
+- 120 Report à nouveau (bénéfice)
+- 121 Report à nouveau (perte)
+- 122 Résultat de l'exercice (bénéfice)
+- 123 Résultat de l'exercice (perte)
+- 124 Dotations de l'exercice aux réserves
+- 125 Reprises sur dotations aux réserves
+- 126 Transferts de bénéfice
+- 127 Transferts de perte
+
+#### 13 - Subventions d'investissement
+- 131 Subventions d'investissement de l'État
+- 132 Subventions d'investissement des collectivités publiques
+- 133 Subventions d'investissement des organismes publics
+- 134 Subventions d'investissement des sociétés du groupe
+- 135 Subventions d'investissement des asociés
+- 136 Autres subventions d'investissement
+
+#### 14 - Provisions réglementées
+- 141 Provisions réglementées pour charges
+- 142 Provisions pour risques et charges
+
+#### 15 - Emprunts et dettes assimilées
+- 150 Emprunts obligataires
+- 151 Emprunts auprès des établissements de crédit
+- 152 Emprunts et dettes auprès des associés
+- 153 Emprunts à long terme
+- 154 Emprunts à moyen terme
+- 155 Dépôts et cautionnements reçus
+- 156 Provisions pour charges de retraite
+- 157 Provisions pour prestations assimilées
+- 158 Dettes rattachées à des participations
+- 159 Autres emprunts et dettes
+
+#### 16 - Comptes de liaison des établissements et succursales
+- 160 Comptes de liaison du siège
+- 161 Comptes de liaison des établissements
+
+### Détail des comptes de la classe 2 - Actif immobilisé
+
+#### 20 - Immobilisations incorporelles
+- 201 Frais d'établissement
+- 202 Frais de recherche et de développement
+- 203 Logiciels informatiques
+- 204 Concessions et droits similaires, brevets, licences
+- 205 Fonds commercial
+- 206 Écart d'acquisition
+- 207 Autres immobilisations incorporelles
+
+#### 21 - Immobilisations corporelles
+- 211 Terrains
+- 212 Constructions
+- 213 Installations techniques, matériel et outillage industriels
+- 214 Matériel de transport
+- 215 Matériel de bureau et mobilier
+- 216 Actifs生物 biologiques (agriculture)
+- 217 Immobilisations en concession
+- 218 Autres immobilisations corporelles
+
+#### 22 - Immobilisations mises en concession
+- 220 Concessions et droits similaires
+- 221 Constructions
+- 222 Matériel et outillage
+
+#### 23 - Immobilisations en cours
+- 231 Immobilisations corporelles en cours
+- 232 Immobilisations incorporelles en cours
+- 233 Avances et acomptes sur immobilisations corporelles
+- 234 Avances et acomptes sur immobilisations incorporelles
+
+#### 24 - Immobilisations financières
+- 241 Titres de participation
+- 242 Autres titres immobilisés
+- 243 Prêts immobilisés
+- 244 Dépôts et cautionnements versés
+- 245 Créances rattachées à des participations
+- 246 Écarts de conversion (actif)
+- 249 Autres immobilisations financières
+
+### Détail des comptes de la classe 3 - Stocks
+
+#### 30 - Stocks de marchandises
+- 301 Marchandises A
+- 302 Marchandises B
+- 303 Marchandises C
+
+#### 31 - Matières premières
+- 311 Matières premières A
+- 312 Matières premières B
+- 313 Matières premières C
+
+#### 32 - Autres approvisionnements
+- 321 Matières et fournitures consommables
+- 322 Fournitures non stockables (eau, énergie)
+- 323 Fournitures de bureau
+- 324 Emballages
+- 325 Matériel réparable
+
+#### 33 - En-cours de production de biens
+- 331 En-cours de production A
+- 332 En-cours de production B
+
+#### 34 - Produits intermédiaires
+- 341 Produits intermédiaires A
+- 342 Produits intermédiaires B
+
+#### 35 - Produits finis
+- 351 Produits finis A
+- 352 Produits finis B
+
+#### 36 - Stocks provenant d'immobilisations
+- 361 Stocks provenant d'immobilisations
+
+#### 37 - Achats stockés
+- 371 Variation de stocks de marchandises
+- 372 Variation de stocks de matières premières
+- 373 Variation de stocks de fournitures
+
+#### 38 - Variation de stocks
+- 381 Variation de stocks de produits finis
+- 382 Variation de stocks de produits intermédiaires
+- 383 Variation de stocks de produits en cours
+- 384 Variation de stocks de matières premières
+- 385 Variation de stocks de fournitures
+
+#### 39 - Pertes de valeur sur stocks
+- 391 Provisions pour dépréciation de stocks de marchandises
+- 392 Provisions pour dépréciation de stocks de matières premières
+- 393 Provisions pour dépréciation de stocks de fournitures
+
+### Détail des comptes de la classe 4 - Tiers
+
+#### 40 - Fournisseurs et comptes rattachés
+- 401 Fournisseurs
+- 402 Fournisseurs d'immobilisations
+- 403 Fournisseurs - Retenue de garantie
+- 404 Fournisseurs d'exploitation
+- 405 Autres fournisseurs et comptes rattachés
+- 408 Fournisseurs - Factures non parvenues
+- 409 Fournisseurs - Avances et acomptes
+
+#### 41 - Clients et comptes rattachés
+- 411 Clients
+- 412 Clients d'immobilisations
+- 413 Clients - Retenue de garantie
+- 416 Créances sur clients
+- 417 Effets à recevoir
+- 418 Clients - Factures à émettre
+- 419 Clients - Avances et acomptes versés
+
+#### 42 - Personnel
+- 421 Personnel - Rémunérations dues
+- 422 Personnel - Avances et acomptes
+- 423 Personnel - Dépôts
+- 424 Personnel - Oppositions
+- 426 Personnel - Cotisations sociales
+- 427 Personnel - Impôts et taxes
+
+#### 43 - Organismes sociaux
+- 431 CNAS - Caisse Nationale des Assurances Sociales
+- 432 CASNOS - Caisse Nationale de Sécurité Sociale des Non-Salariés
+- 437 Autres organismes sociaux
+- 438 Organismes sociaux - Cotisations dues
+
+#### 44 - État et collectivités publiques
+- 441 État - Subventions à recevoir
+- 442 État - Impôts et taxes recouvrables
+- 443 État - Impôts sur les résultats
+- 444 État - Taxes sur le chiffre d'affaires
+- 445 État - TVA
+- 446 État - Taxes sur les salaires
+- 447 État - Autres impôts et taxes
+- 448 État - Impôts et taxes sur le résultat
+
+#### 45 - Autres créanciers et débiteurs
+- 451 Débiteurs divers
+- 452 Créances sur cessions d'immobilisations
+- 453 Débiteurs divers - Impôts et taxes
+- 455 Créances fiscales
+- 457 Autres créances
+
+#### 47 - Comptes d'attente
+- 471 Opérations en cours de traitement
+
+#### 48 - Charges et produits constatés d'avance
+- 480 Charges constatées d'avance
+- 481 Produits constatés d'avance
+- 486 Charges à payer
+- 487 Produits à recevoir
+
+#### 49 - Pertes de valeur sur créances
+- 490 Provisions pour dépréciation de comptes clients
+- 491 Dépréciations sur comptes clients
+- 492 Dépréciations sur comptes rattachés
+
+### Détail des comptes de la classe 5 - Trésorerie
+
+#### 50 - Titres de placement
+- 501 Valeurs mobilières de placement
+- 502 Bons de caisse à court terme
+- 503 Bons de trésorerie
+- 504 Bons de caisse à long terme
+
+#### 51 - Banques, établissements financiers et assimilés
+- 510 Banque Centrale
+- 511 Banques et établissements financiers
+- 512 Chèques à encaisser
+- 513 Effets à encaisser
+- 514 Chèques et effets à payer
+- 516 Banques - Opérations en cours
+- 518 Banques - Avances et découverts
+
+#### 52 - Caisse
+- 521 Caisse
+- 522 Petite caisse
+- 523 Caisse - Opérations en cours
+
+#### 53 - Financement permanent déposé
+- 531 Dépôts de garantie
+- 532 Dépôts bancaires
+
+#### 54 - Régies d'avance et accréditifs
+- 541 Régies d'avance
+
+### Détail des comptes de la classe 6 - Charges
+
+#### 60 - Achats
+- 601 Achats de marchandises
+- 602 Achats de matières premières
+- 603 Achats de fournitures
+- 604 Achats de matières et fournitures consommables
+- 605 Achats non stockés de matières et fournitures
+- 606 Achats de services extérieurs
+- 607 Achats stockés
+
+#### 61 - Services extérieurs
+- 611 Sous-traitance
+- 612 Locations et charges locatives
+- 613 Redevances de crédit-bail
+- 614 Entretien et réparations
+- 615 Primes d'assurance
+- 616 Rémunérations d'intermédiaires et honoraires
+- 617 Transports
+- 618 Déplacements, missions et réceptions
+- 619 Autres services extérieurs
+
+#### 62 - Autres services extérieurs
+- 621 Études et recherches
+- 622 Conception et recherche
+- 623 Publicité, publications et relations publiques
+- 624 Cotisations et dons
+- 625 Frais postaux et télécommunications
+- 626 Services bancaires
+- 627 Autres services extérieurs
+- 628 Frais d'établissement
+- 629 Transferts de charges d'exploitation
+
+#### 63 - Charges de personnel
+- 631 Salaires, appointements et commissions
+- 632 Congés payés
+- 633 Indemnités et avantages divers
+- 634 Charges sociales - Allocations familiales
+- 635 Charges sociales - Retraite
+- 636 Charges sociales - Autres
+- 637 Autres charges de personnel
+
+#### 64 - Impôts, taxes et versements assimilés
+- 641 Impôts et taxes directs
+- 642 Taxes sur le chiffre d'affaires
+- 643 Autres impôts, taxes et versements assimilés
+- 644 Impôts sur les résultats
+- 645 Taxes sur les salaires
+- 646 Taxes sur les véhicules
+- 647 Taxe professionnelle
+- 648 Autres impôts et taxes
+
+#### 65 - Autres charges opérationnelles
+- 651 Charges des provisions
+- 652 Charges des dépréciations
+- 653 Pertes sur créances devenues irrécouvrables
+- 654 Escomptes accordés
+- 655 Pertes sur opérations faites en commun
+- 656 Pertes sur créances irrécouvrables
+- 657 Pertes sur cessions d'immobilisations
+- 658 Pertes diverses
+- 659 Transferts de charges d'exploitation
+
+#### 66 - Charges financières
+- 661 Charges d'intérêts
+- 662 Pertes de change
+- 663 Pertes sur créances rattachées à des participations
+- 664 Pertes sur titres de participation
+- 665 Charges des dépréciations
+- 666 Pertes sur opérations faites en commun
+- 667 Pertes diverses
+- 668 Transferts de charges financières
+- 669 Régularisations des charges financières
+
+#### 67 - Charges exceptionnelles
+- 671 Charges exceptionnelles sur opérations courantes
+- 672 Charges exceptionnelles sur opérations en capital
+- 673 Dotations aux amortissements exceptionnels
+- 674 Dotations aux provisions exceptionnelles
+- 675 Pertes exceptionnelles
+- 676 Transferts de charges exceptionnelles
+- 677 Régularisations des charges exceptionnelles
+- 678 Charges diverses
+
+#### 68 - Dotations aux amortissements et provisions
+- 681 Dotations aux amortissements d'exploitation
+- 682 Dotations aux provisions pour dépréciations
+- 683 Dotations aux provisions pour risques et charges
+- 684 Dotations aux amortissements des immobilisations financières
+- 685 Dotations aux amortissements des immobilisations incorporelles
+- 686 Dotations aux amortissements des immobilisations corporelles
+- 687 Dotations aux provisions des actifs circulants
+- 688 Dotations aux provisions des passifs circulants
+- 689 Dotations aux provisions des passifs
+
+#### 69 - Transferts de charges
+- 690 Transferts de charges d'exploitation
+- 691 Transferts de charges financières
+- 692 Transferts de charges exceptionnelles
+- 693 Transferts de charges extraordinaires
+
+### Détail des comptes de la classe 7 - Produits
+
+#### 70 - Ventes de marchandises
+- 701 Ventes de marchandises
+- 702 Ventes de marchandises à l'exportation
+- 703 Ventes de marchandises dans les DOM-TOM
+
+#### 71 - Ventes de produits fabriqués et prestations de services
+- 711 Ventes de produits finis
+- 712 Ventes de produits intermédiaires
+- 713 Ventes de produits en cours
+- 714 Ventes de services
+- 715 Ventes de produits résiduels
+
+#### 72 - Chiffre d'affaires
+- 720 Chiffre d'affaires
+- 721 Ventes de marchandises
+- 722 Ventes de biens et services produits
+- 723 Chiffre d'affaires à l'exportation
+
+#### 73 - Variation de stocks de produits
+- 731 Variation de stocks de produits finis
+- 732 Variation de stocks de produits intermédiaires
+- 733 Variation de stocks de produits en cours
+
+#### 74 - Immobilisations produites par l'entreprise pour elle-même
+- 741 Immobilisations corporelles
+- 742 Immobilisations incorporelles
+
+#### 75 - Subventions d'exploitation
+- 751 Subventions d'exploitation de l'État
+- 752 Subventions d'exploitation des collectivités publiques
+- 753 Subventions d'exploitation des organismes publics
+- 754 Subventions d'exploitation des sociétés du groupe
+- 755 Subventions d'exploitation des associés
+- 756 Autres subventions d'exploitation
+
+#### 76 - Autres produits d'exploitation
+- 761 Revenus des prêts
+- 762 Revenus des dépôts et cautionnements
+- 763 Revenus des titres
+- 764 Revenus des créances rattachées à des participations
+- 765 Revenus des autres créances
+- 766 Escomptes obtenus
+- 767 Produits des opérations faites en commun
+- 768 Produits divers
+- 769 Transferts de produits d'exploitation
+
+#### 77 - Produits financiers
+- 771 Revenus des titres de participation
+- 772 Produits des autres titres
+- 773 Intérêts et autres produits
+- 774 Revenus des prêts
+- 775 Revenus des dépôts et cautionnements
+- 776 Revenus des créances rattachées à des participations
+- 777 Revenus des autres créances
+- 778 Produits financiers divers
+- 779 Transferts de produits financiers
+
+#### 78 - Produits exceptionnels
+- 781 Produits exceptionnels sur opérations courantes
+- 782 Produits exceptionnels sur opérations en capital
+- 783 Reprises sur dépréciations
+- 784 Reprises sur provisions
+- 785 Produits exceptionnels divers
+- 786 Transferts de produits exceptionnels
+- 789 Régularisations des produits exceptionnels
+
+#### 79 - Produits et charges extraordinaires
+- 791 Produits extraordinaires
+- 792 Charges extraordinaires
+- 793 Transferts de produits extraordinaires
+- 794 Transferts de charges extraordinaires
+- 799 Solde des produits et charges extraordinaires
+
+### Détail des comptes de la classe 8 - Gestion
+
+#### 80 - Transferts de charges
+- 801 Transferts de charges d'exploitation
+- 802 Transferts de charges financières
+- 803 Transferts de charges exceptionnelles
+
+#### 81 - Transferts de produits
+- 811 Transferts de produits d'exploitation
+- 812 Transferts de produits financiers
+- 813 Transferts de produits exceptionnels
+
+#### 82 - Résultat de l'exercice
+- 820 Bénéfice de l'exercice
+- 821 Perte de l'exercice
+
+#### 83 - Affectation du résultat
+- 830 Report à nouveau bénéficiaire
+- 831 Report à nouveau déficitaire
+- 832 Résultat de l'exercice bénéficiaire
+- 833 Résultat de l'exercice déficitaire
+
+#### 84 - Résultat des opérations d'exploitation
+- 840 Résultat d'exploitation
+- 841 Bénéfice d'exploitation
+- 842 Perte d'exploitation
+
+#### 85 - Résultat des opérations financières
+- 850 Résultat financier
+- 851 Bénéfice financier
+- 852 Perte financière
+
+#### 86 - Résultat des opérations exceptionnelles
+- 860 Résultat exceptionnel
+- 861 Bénéfice exceptionnel
+- 862 Perte exceptionnelle
+
+#### 87 - Résultat avant impôts
+- 870 Résultat avant impôts
+
+#### 88 - Impôts sur les résultats
+- 880 Impôts sur les résultats
+
+#### 89 - Résultat net
+- 890 Résultat net
+- 891 Bénéfice net
+- 892 Perte nette
+
+### Détail des comptes de la classe 9 - Hors bilan
+
+#### 90 - Engagements et promesses
+- 901 Engagements de caution et garantie
+- 902 Promesses d'achat
+- 903 Engagements de sortie de liquidité
+
+#### 91 - Créances et dettes hors bilan
+- 911 Créances hors bilan
+- 912 Dettes hors bilan
+
+#### 92 - Résultats des opérations faites en commun
+- 921 Opérations faites en commun
+- 922 Gérance mandat
+
+#### 93 - Impôts différés
+- 931 Impôts différés
+- 932 Crédits d'impôt reportables
+
+#### 94 - Contrats d'assurance
+- 941 Contrats d'assurance
+
+#### 95 - Engagements retraités et assimilés
+- 951 Engagements envers le personnel
+- 952 Engagements envers les partenaires sociaux
+
+#### 96 - Subventions accordées
+- 961 Subventions accordées
+
+#### 97 - Garanties et cautions
+- 971 Garanties données
+- 972 Cautionnements donnés
+
+#### 98 - Impôts
+- 981 Impôts et taxes
+
+#### 99 - Opérations en cours de traitement
+- 991 Opérations en cours de traitement
+
 ## CHAPITRE IV - DOCUMENTS COMPTABLES
 
 ### États financiers obligatoires
@@ -75,6 +576,73 @@ Les entités doivent établir à la fin de chaque exercice :
 - L'état des flux de trésorerie
 - L'état des variations des capitaux propres
 - Les annexes aux états financiers
+
+### Structure du bilan
+
+#### Actif
+
+**Actif immobilisé :**
+- Immobilisations incorporelles
+- Immobilisations corporelles
+- Immobilisations financières
+- Actif circulant
+  - Stocks
+  - Créances
+  - Titres de placement
+  - Trésorerie
+
+**Passif**
+- Capitaux propres
+  - Capital social
+  - Réserves
+  - Report à nouveau
+  - Résultat de l'exercice
+- Dettes
+  - Dettes financières
+  - Dettes fournisseurs
+  - Dettes fiscales
+  - Dettes sociales
+  - Autres dettes
+
+### Structure du compte de résultat
+
+**Produits d'exploitation :**
+- Chiffre d'affaires
+- Variation de stocks de produits
+- Reprises d'exploitation
+
+**Charges d'exploitation :**
+- Achats consommés
+- Services extérieurs
+- Charges de personnel
+- Impôts et taxes
+- Dotations aux amortissements
+
+**Résultat d'exploitation**
+
+**Produits financiers :**
+- Revenus des prêts
+- Revenus des titres
+
+**Charges financières :**
+- Charges d'intérêts
+- Pertes de change
+
+**Résultat financier**
+
+**Produits exceptionnels :**
+- Produits sur opérations courantes
+- Produits sur opérations en capital
+
+**Charges exceptionnelles :**
+- Charges sur opérations courantes
+- Charges sur opérations en capital
+
+**Résultat avant impôts**
+
+**Impôts sur les résultats**
+
+**Résultat net**
 
 ### Durée de conservation
 Les documents comptables doivent être conservés pendant une durée minimum de 10 ans.

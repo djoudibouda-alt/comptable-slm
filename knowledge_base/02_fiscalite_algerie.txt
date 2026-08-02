@@ -479,9 +479,28 @@ L'Algérie a conclu des conventions fiscales avec de nombreux pays pour éviter 
 
 ### 14.1 Calcul de l'IBS
 
-#### Exemple : Bénéfice avant impôt de 1 000 000 DA
+#### Exemple 1 : Bénéfice avant impôt de 1 000 000 DA
 - IBS (19%) : 190 000 DA
 - Bénéfice net : 810 000 DA
+
+#### Exemple 2 : Entreprise avec déficit
+- Résultat comptable : -500 000 DA
+- Réintégrations fiscales : +100 000 DA (amendes)
+- Déductions fiscales : -0 DA
+- Résultat fiscal : -400 000 DA
+- IBS dû : 0 DA
+- Report déficitaire : 400 000 DA (reportable 4 ans)
+
+#### Exemple 3 : Entreprise avec résultat fiscal
+- Résultat comptable : 2 000 000 DA
+- Réintégrations fiscales : +200 000 DA
+  - Amendes : 50 000 DA
+  - Dons > 2‰ du CA : 150 000 DA
+- Déductions fiscales : -300 000 DA
+  - Amortissements excédentaires : 200 000 DA
+  - Dividendes de filiales : 100 000 DA
+- Résultat fiscal : 1 900 000 DA
+- IBS dû : 1 900 000 × 19% = 361 000 DA
 
 ### 14.2 Acomptes trimestriels
 - 1er trimestre : 25% de l'IBS estimé
@@ -489,10 +508,55 @@ L'Algérie a conclu des conventions fiscales avec de nombreux pays pour éviter 
 - 3ème trimestre : 25%
 - Solde : lors du dépôt de la déclaration annuelle
 
+#### Exemple d'acomptes
+- IBS estimé : 400 000 DA
+- 1er acompte (20 mars) : 100 000 DA
+- 2ème acompte (20 juin) : 100 000 DA
+- 3ème acompte (20 septembre) : 100 000 DA
+- 4ème acompte (20 décembre) : 100 000 DA
+- Solde lors de la déclaration annuelle : 0 DA
+
 ### 14.3 Réintégrations fiscales courantes
 - Amendes et pénalités : 100% réintégration
 - Dons > 2‰ du CA : réintégration du dépassement
 - Charges non justifiées : réintégration totale
+- Provision pour litiges : réintégration si non utilisée dans les 4 ans
+- Amortissements excédentaires : réintégration de la fraction excédentaire
+
+### 14.4 Déductions fiscales courantes
+- Amortissements dans les limites réglementaires
+- Provisions pour dépréciation des stocks
+- Provisions pour créances douteuses (2% du CA)
+- Frais d'établissement (1/5 par an pendant 5 ans)
+- Dividendes de filiales (95% abattement)
+
+### 14.5 Calcul de la réserve légale
+- Taux : 5% du bénéfice net
+- Plafond : 10% du capital social
+- Exemple :
+  - Bénéfice net : 1 000 000 DA
+  - Capital social : 5 000 000 DA
+  - Réserve légale : 5% × 1 000 000 = 50 000 DA
+  - Plafond : 10% × 5 000 000 = 500 000 DA
+  - Réserve à constituer : 50 000 DA
+
+### 14.6 Cas pratiques IBS
+
+#### Cas 1 : SARL avec 2 salariés
+- CA annuel : 10 000 000 DA
+- Charges : 8 000 000 DA
+- Résultat comptable : 2 000 000 DA
+- Réintégrations : +100 000 DA
+- Déductions : -200 000 DA
+- Résultat fiscal : 1 900 000 DA
+- IBS : 361 000 DA
+
+#### Cas 2 : EURL à l'IRG
+- CA : 5 000 000 DA
+- Charges : 4 000 000 DA
+- Résultat : 1 000 000 DA
+- Option IRG : barème progressif applicable
+- Impôt : variable selon les tranches
 
 ---
 

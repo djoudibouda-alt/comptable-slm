@@ -1,0 +1,402 @@
+# AUDIT DES SYSTÈMES D'INFORMATION EN ALGÉRIE
+## Guide de l'audit des systèmes d'information informatisés
+
+---
+
+## 1. PRÉSENTATION GÉNÉRALE
+
+### 1.1 Définition
+L'audit des systèmes d'information (SI) est un processus d'évaluation indépendant visant à déterminer si les systèmes d'information protègent les actifs, maintiennent l'intégrité des données, permettent l'atteinte des objectifs organisationnels et utilisent les ressources de manière efficace et efficiente.
+
+### 1.2 Objectifs
+- Évaluer la sécurité du SI
+- Vérifier la fiabilité des données
+- Contrôler l'efficacité des procédures
+- Détecter les risques et les vulnérabilités
+- Proposer des améliorations
+
+### 1.3 Cadre normatif
+- **Normes ISO 27001** : Systèmes de management de la sécurité de l'information
+- **Normes COBIT** : Cadre de gouvernance et de gestion des SI
+- **Normes ITIL** : Bonnes pratiques de gestion des services informatiques
+- **Normes ISA** : Audit des systèmes d'information
+
+---
+
+## 2. PÉRIMÈTRE DE L'AUDIT SI
+
+### 2.1 Domaines d'intervention
+
+#### 2.1.1 Infrastructure physique
+- Serveurs et équipements
+- Réseau et télécommunications
+- Salle serveur et sécurité physique
+- Alimentation électrique et climatisation
+
+#### 2.1.2 Systèmes d'exploitation
+- Systèmes serveur (Windows Server, Linux)
+- Systèmes postes de travail (Windows, macOS)
+- Virtualisation (VMware, Hyper-V)
+
+#### 2.1.3 Applications
+- Logiciels de gestion (ERP, CRM)
+- Applications métier
+- Bases de données
+- Outils de développement
+
+#### 2.1.4 Données
+- Données structurées (bases de données)
+- Données non structurées (fichiers, emails)
+- Sauvegardes et archivages
+
+### 2.2 Risques associés
+
+#### 2.2.1 Risques de sécurité
+- Accès non autorisés
+- Virus et malwares
+- Attaques informatiques
+- Vol de données
+
+#### 2.2.2 Risques opérationnels
+- Pannes matérielles
+- Erreurs humaines
+- Incompatibilités logicielles
+- Perte de données
+
+#### 2.2.3 Risques juridiques
+- Non-conformité légale
+- Protection des données personnelles
+- Violation des contrats
+- Responsabilité professionnelle
+
+---
+
+## 3. PROCÉDURES D'AUDIT SI
+
+### 3.1 Phase préliminaire
+
+#### 3.1.1 Cadrage de la mission
+- Définition du périmètre
+- Objectifs de l'audit
+- Planning de la mission
+- Allocation des ressources
+
+#### 3.1.2 Compréhension du SI
+- Cartographie des systèmes
+- Identification des actifs critiques
+- Analyse des flux de données
+- Entretiens avec les responsables
+
+### 3.2 Phase d'exécution
+
+#### 3.2.1 Évaluation de la sécurité
+
+**Tests de sécurité :**
+- Tests d'intrusion
+- Scan de vulnérabilités
+- Vérification des pare-feu
+- Contrôle des accès
+
+**Vérifications :**
+- Politique de mots de passe
+- Gestion des droits d'accès
+- Journalisation et traçabilité
+- Sécurité physique
+
+#### 3.2.2 Évaluation de la fiabilité
+
+**Tests de fiabilité :**
+- Tests de sauvegarde
+- Tests de restauration
+- Tests de continuité d'activité
+- Tests de reprise après sinistre
+
+**Vérifications :**
+- Intégrité des données
+- Cohérence des informations
+- Exactitude des traitements
+- Complétude des opérations
+
+#### 3.2.3 Évaluation de l'efficacité
+
+**Tests d'efficacité :**
+- Temps de réponse
+- Disponibilité des systèmes
+- Capacité de traitement
+- Utilisation des ressources
+
+**Vérifications :**
+- Optimisation des performances
+- Gestion de la capacité
+- Maintenance préventive
+- Gestion des incidents
+
+### 3.3 Phase de conclusion
+
+#### 3.3.1 Synthèse des observations
+- Recensement des anomalies
+- Évaluation de l'incidence
+- Classification des risques
+- Priorisation des recommandations
+
+#### 3.3.2 Rédaction du rapport
+- Contexte et objectifs
+- Méthodologie utilisée
+- Observations et constats
+- Recommandations
+- Plan d'action
+
+---
+
+## 4. INDICATEURS D'AUDIT
+
+### 4.1 Indicateurs de sécurité
+
+| Indicateur | Objectif | Seuil d'alerte |
+|------------|----------|----------------|
+| Taux d'incidents de sécurité | < 5% | > 10% |
+| Nombre de tentatives d'intrusion | Suivi mensuel | Augmentation > 20% |
+| Taux de conformité politique de sécurité | > 95% | < 90% |
+| Délai de remédiation des vulnérabilités | < 30 jours | > 60 jours |
+
+### 4.2 Indicateurs de fiabilité
+
+| Indicateur | Objectif | Seuil d'alerte |
+|------------|----------|----------------|
+| Taux de disponibilité | > 99,5% | < 99% |
+| Taux d'erreur de traitement | < 0,1% | > 1% |
+| Temps de restauration | < 4h | > 8h |
+| Taux de succès des sauvegardes | > 99% | < 95% |
+
+### 4.3 Indicateurs d'efficacité
+
+| Indicateur | Objectif | Seuil d'alerte |
+|------------|----------|----------------|
+| Temps de réponse moyen | < 3 secondes | > 5 secondes |
+| Taux d'utilisation CPU | < 70% | > 85% |
+| Taux d'utilisation mémoire | < 70% | > 85% |
+| Espace disque disponible | > 20% | < 10% |
+
+---
+
+## 5. OUTILS D'AUDIT
+
+### 5.1 Outils de scan de vulnérabilités
+- **Nessus** : scan de vulnérabilités réseau
+- **OpenVAS** : scanner de vulnérabilités open source
+- **Qualys** : scan cloud de vulnérabilités
+
+### 5.2 Outils de test d'intrusion
+- **Metasploit** : framework de tests d'intrusion
+- **Kali Linux** : distribution de tests de sécurité
+- **Burp Suite** : test de sécurité des applications web
+
+### 5.3 Outils d'analyse de logs
+- **Splunk** : analyse de logs et SIEM
+- **ELK Stack** : Elasticsearch, Logstash, Kibana
+- **Graylog** : gestion centralisée des logs
+
+### 5.4 Outils de monitoring
+- **Nagios** : supervision réseau
+- **Zabbix** : monitoring d'infrastructure
+- **PRTG** : supervision réseau
+
+---
+
+## 6. CAS PRATIQUES
+
+### 6.1 Cas 1 : Audit d'un système ERP
+
+**Contexte :**
+- PME algérienne (50 salariés)
+- ERP implanté depuis 2 ans
+- 5 modules utilisés
+
+**Travaux d'audit :**
+- Évaluation de la sécurité
+- Vérification de la conformité
+- Test des contrôles internes
+- Analyse des performances
+
+**Observations :**
+- Mots de passe faibles
+- Droits d'accès trop larges
+- Pas de journalisation
+- Sauvegardes non testées
+
+**Recommandations :**
+- Politique de mots de passe renforcée
+- Segmentation des droits
+- Mise en place d'un SIEM
+- Tests de restauration réguliers
+
+### 6.2 Cas 2 : Audit d'une infrastructure réseau
+
+**Contexte :**
+- Entreprise industrielle
+- 2 sites géographiques
+- 100 postes de travail
+
+**Travaux d'audit :**
+- Cartographie du réseau
+- Scan de vulnérabilités
+- Tests de pare-feu
+- Vérification de la sécurité physique
+
+**Observations :**
+- Pare-feu obsolètes
+- VLAN non segmentés
+- Accès Wi-Fi non sécurisés
+- Pas de surveillance physique
+
+**Recommandations :**
+- Mise à jour des pare-feu
+- Segmentation réseau
+- Chiffrement Wi-Fi
+- Installation de caméras
+
+### 6.3 Cas 3 : Audit de la continuité d'activité
+
+**Contexte :**
+- Banque algérienne
+- 3 agences
+- Système critique
+
+**Travaux d'audit :**
+- Évaluation du PRA
+- Test de basculement
+- Vérification des sauvegardes
+- Analyse des temps de reprise
+
+**Observations :**
+- PRA non testé depuis 2 ans
+- Sauvegardes non chiffrées
+- Pas de site de secours
+- Procédures obsolètes
+
+**Recommandations :**
+- Test semestriel du PRA
+- Chiffrement des sauvegardes
+- Mise en place d'un site de secours
+- Mise à jour des procédures
+
+---
+
+## 7. NORMES ET RÉFÉRENTIELS
+
+### 7.1 ISO 27001
+
+#### 7.1.1 Exigences
+- Politique de sécurité
+- Gestion des risques
+- Contrôles de sécurité
+- Amélioration continue
+
+#### 7.1.2 Certification
+- Audit de certification
+- Surveillance annuelle
+- Renouvellement tous les 3 ans
+
+### 7.2 COBIT
+
+#### 7.2.1 Domaines
+- Planification et organisation
+- Acquisition et mise en œuvre
+- Livraison et support
+- Surveillance et évaluation
+
+#### 7.2.2 Objectifs
+- Alignement stratégique
+- Gestion des risques
+- Optimisation des ressources
+- Mesure de la performance
+
+### 7.3 ITIL
+
+#### 7.3.1 Processus
+- Gestion des incidents
+- Gestion des problèmes
+- Gestion des changements
+- Gestion des configurations
+
+#### 7.3.2 Services
+- Service desk
+- Gestion de la capacité
+- Disponibilité
+- Continuité
+
+---
+
+## 8. LÉGISLATION ALGÉRIENNE
+
+### 8.1 Cadre juridique
+
+#### 8.1.1 Lois principales
+- **Loi n° 18-07 du 10 juin 2018** : Protection des données à caractère personnel
+- **Ordonnance n° 04-18 du 25 décembre 2004** : Obligations comptables
+- **Loi n° 09-04 du 25 février 2009** : Sécurité des systèmes d'information
+
+#### 8.1.2 Décrets d'application
+- Décret exécutif n° 12-243 : Protection des données personnelles
+- Décret exécutif n° 97-12 : Plan Comptable National
+- Décret exécutif n° 90-10 : Activité des établissements de crédit
+
+### 8.2 Obligations légales
+
+#### 8.2.1 Protection des données
+- Consentement des personnes
+- Finalité du traitement
+- Durée de conservation
+- Droit d'accès et de rectification
+
+#### 8.2.2 Sécurité des systèmes
+- Mesures de sécurité
+- Notification des incidents
+- Conservation des logs
+- Audits de sécurité
+
+---
+
+## 9. RECOMMANDATIONS
+
+### 9.1 Bonnes pratiques
+
+#### 9.1.1 Gouvernance
+- Mettre en place un comité de pilotage SI
+- Définir une politique de sécurité
+- Établir des procédures d'audit
+- Former le personnel
+
+#### 9.1.2 Sécurité
+- Chiffrer les données sensibles
+- Mettre à jour les systèmes
+- Surveiller les accès
+- Tester régulièrement
+
+#### 9.1.3 Continuité
+- Établir un PRA
+- Tester régulièrement
+- Documenter les procédures
+- Former les équipes
+
+### 9.2 Plan d'action type
+
+| Action | Responsable | Délai | Priorité |
+|--------|-------------|-------|----------|
+| Politique de mots de passe | RSSI | 1 mois | Haute |
+| Mise à jour des systèmes | DSIO | 2 mois | Haute |
+| Tests de sécurité | RSSI | 3 mois | Moyenne |
+| Formation du personnel | RH | 4 mois | Moyenne |
+| Tests de PRA | DSIO | 6 mois | Basse |
+
+---
+
+## 10. CONCLUSION
+
+L'audit des systèmes d'information est un processus essentiel pour garantir la sécurité, la fiabilité et l'efficacité des SI en Algérie. Il permet d'identifier les risques, de détecter les vulnérabilités et de proposer des améliorations concrètes.
+
+Les professionnels doivent se conformer aux normes internationales (ISO 27001, COBIT, ITIL) tout en tenant compte du cadre législatif algérien. Un audit régulier permet d'assurer la protection des actifs, la conformité légale et la continuité de l'activité.
+
+---
+
+Ce document constitue une référence complète pour l'audit des systèmes d'information en Algérie. Il est destiné aux auditeurs SI, aux responsables informatiques et aux professionnels de la sécurité des systèmes d'information.

@@ -2,8 +2,8 @@
 
 **Comptable-SLM** est un assistant IA spécialisé dans la comptabilité, la fiscalité et l'audit algériens.
 
-👉 **Démo en ligne** : https://huggingface.co/spaces/votre-espace  *(à venir)*
-👉 **Code source** : https://github.com/votre-compte/comptable-slm *(à créer)*
+👉 **Démo en ligne** : https://comptable-slm-1.onrender.com
+👉 **Code source** : https://github.com/djoudibouda-alt/comptable-slm
 
 ---
 
@@ -30,10 +30,15 @@ Les outils IA actuels (ChatGPT, Claude, etc.) sont entraînés sur des données 
 │  🔍 RAG Pipeline          │  🧠 SLM Fine-tuné              │
 │  NVIDIA NIM Embeddings    │  Llama 3.2 3B (4-bit)          │
 │  ChromaDB Vector Store    │  Unsloth + QLoRA               │
-│  534 chunks (SCF + lois)  │  150 exemples algériens        │
+│  534 chunks (7 fichiers)  │  150 exemples algériens        │
+│  Section-based chunking   │  GGUF → Ollama (local)         │
 ├─────────────────────────────────────────────────────────────┤
-│  🏗️ En développement : Extraction factures (Docling+Qwen) │
-│  🏗️ En développement : Analyseur Grand Livre (Python)      │
+│  🎯 TF-IDF Search (word-level, accent-insensitive)         │
+│  📚 125 Q&A curées — questions naturelles + réponses       │
+│  ✅ Réponses sourcées  |  🛡️ Fallback intelligent          │
+├─────────────────────────────────────────────────────────────┤
+│  🏗️ En test : Extraction factures (Docling + Qwen 2.5)     │
+│  🏗️ En test : Analyseur Grand Livre (audit)                │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -41,14 +46,18 @@ Les outils IA actuels (ChatGPT, Claude, etc.) sont entraînés sur des données 
 
 | Fonctionnalité | Status |
 |---------------|--------|
-| ✅ Questions/Réponses sur le SCF | ✅ Prêt |
-| ✅ TVA, IBS, IRG, charges sociales | ✅ Prêt |
-| ✅ SARL, EURL, droit des sociétés | ✅ Prêt |
-| ✅ Écritures comptables | ✅ Prêt |
-| 🔄 Extraction factures (OCR+IA) | 🔄 En test |
-| 🔄 Analyseur Grand Livre / Audit | 🔄 En test |
-| 📱 Interface web | 🚧 À venir |
-| 🌍 Support OHADA | 📅 Planifié |
+| ✅ Questions/Réponses sur le SCF | ✅ Prêt (125 Q&A) |
+| ✅ TVA (taux, comptes 4455/4456/4457, déclaration) | ✅ Prêt |
+| ✅ IBS 19%, IRG barème 2024, retenue source | ✅ Prêt |
+| ✅ CNAS 7% / CASNOS 15%, allocations familiales | ✅ Prêt |
+| ✅ SARL / EURL / SPA / SNC, registre commerce | ✅ Prêt |
+| ✅ Audit (normes ISA, commissaire aux comptes) | ✅ Prêt |
+| ✅ Écritures comptables (achat, vente, amort., provision) | ✅ Prêt |
+| ✅ Procédures (calendrier fiscal, clôture, rapprochement) | ✅ Prêt |
+| 🔄 Extraction factures (Docling + Qwen 2.5) | 🔄 En test (100 factures Kaggle) |
+| 🔄 Analyseur Grand Livre / Audit | 🔄 En test (Python) |
+| 📱 Démo web Gradio (Render) | ✅ **En ligne** |
+| 🌍 Support OHADA (16 pays) | 📅 Planifié (3 mois) |
 
 ---
 
@@ -103,23 +112,29 @@ python comptable_demo.py
 🇩🇿 J'ai le plaisir de vous présenter Comptable-SLM, 
 un assistant IA spécialisé dans la comptabilité et l'audit algériens.
 
-🔹 Basé sur Llama 3.2 fine-tuné + RAG
-🔹 Connaît le SCF, la TVA, l'IBS, l'IRG, les charges sociales
-🔹 100% adapté au contexte algérien
-🔹 Démo disponible (lien en commentaire)
+🔹 Basé sur Llama 3.2 fine-tuné + RAG (125 Q&A curées)
+🔹 Connaît le SCF, la TVA (19/9/0%), l'IBS (19%), l'IRG (barème 2024)
+🔹 CNAS/CASNOS, SARL/EURL/SPA, audit, écritures comptables
+🔹 TF-IDF accent-insensitive — matching robuste
+🔹 Réponses sourcées, fallback intelligent (pas d'hallucination)
+🔹 Démo en ligne (lien permanent) : https://comptable-slm-1.onrender.com
+🔹 Code : github.com/djoudibouda-alt/comptable-slm
+🔹 Carrousel slides : 10 PNG dans /slides + PPTX modifiable
 
-#Comptabilité #Algérie #IA #SCF #Audit #Innovation #ExpertComptable
+Postule à Google Africa Applied AI Lab 🚀
+
+#Comptabilité #Algérie #IA #SCF #Audit #Innovation #ExpertComptable #GoogleAI #LLM #RAG #AfricaTech
 ```
 
 ---
 
 ## 📞 Contact
 
-Créé par un **Expert-comptable & Auditeur légal** algérien, 
+Créé par un **Expert-comptable & Auditeur légal** algérien (15+ ans d'expérience), 
 développeur amateur passionné par l'IA.
 
-📧 Votre.Email@example.com
-🔗 linkedin.com/in/votre-profil
+🔗 GitHub : github.com/djoudibouda-alt
+🔗 LinkedIn : linkedin.com/in/djoudibouda
 
 ---
 
