@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
-Génère les slides PDF/PNG pour carrousel LinkedIn — version minimaliste 100% Algérie.
-Usage: python generate_slides.py
+Génère les slides PDF/PNG pour carrousel LinkedIn — design professionnel minimaliste.
 """
 import matplotlib
 matplotlib.use("Agg")
@@ -13,202 +12,208 @@ OUT_DIR = Path("slides")
 OUT_DIR.mkdir(exist_ok=True)
 
 # Couleurs
-DARK_BG = "#0f172a"      # slate-900
-CARD_BG = "#1e293b"      # slate-800
+DARK = "#0f172a"         # slate-900
+CARD = "#1e293b"         # slate-800
 ACCENT = "#38bdf8"       # sky-400
 ACCENT2 = "#22d3ee"      # cyan-400
 WHITE = "#f8fafc"
-GRAY = "#94a3b8"
+MUTED = "#94a3b8"
 GREEN = "#22c55e"
+RED = "#ef4444"
 
 def new_fig():
-    fig, ax = plt.subplots(figsize=(10.8, 13.5), dpi=150)  # 1080x1350 = 4:5 LinkedIn
-    fig.patch.set_facecolor(DARK_BG)
-    ax.set_facecolor(DARK_BG)
+    fig, ax = plt.subplots(figsize=(10.8, 13.5), dpi=150)
+    fig.patch.set_facecolor(DARK)
+    ax.set_facecolor(DARK)
     ax.set_xlim(0, 100)
     ax.set_ylim(0, 100)
     ax.axis("off")
     return fig, ax
 
-def add_bullet_list(ax, x, y, items, fontsize=24, color=WHITE, bullet_color=ACCENT, spacing=1.6):
-    for i, item in enumerate(items):
-        ax.text(x, y - i * fontsize * spacing / 100 * 100, "●", fontsize=fontsize*1.2, color=bullet_color, ha="left", va="top")
-        ax.text(x + 4, y - i * fontsize * spacing / 100 * 100, item, fontsize=fontsize, color=color, ha="left", va="top", wrap=True)
-    return y - len(items) * fontsize * spacing / 100 * 100
-
-def add_card(ax, x, y, w, h, title, body_items, title_color=ACCENT):
-    rect = Rectangle((x, y - h), w, h, facecolor=CARD_BG, edgecolor=GRAY, linewidth=0.5, zorder=1)
+def card(ax, x, y, w, h, title, bullets, title_color=ACCENT, radius=0):
+    """Dessine une carte arrondie."""
+    rect = Rectangle((x, y - h), w, h, facecolor=CARD, edgecolor="#334155", linewidth=1, zorder=1)
+    if radius:
+        rect.set_path_effects([])
     ax.add_patch(rect)
-    ax.text(x + 3, y - 3, title, fontsize=22, color=title_color, weight="bold", ha="left", va="top")
-    y_body = y - 12
-    for item in body_items:
-        ax.text(x + 3, y_body, f"• {item}", fontsize=18, color=WHITE, ha="left", va="top")
-        y_body -= 8
+    # Titre
+    ax.text(x + 24, y - 20, title, fontsize=26, color=title_color, weight="bold", ha="left", va="top")
+    # Bullets
+    y_b = y - 52
+    for b in bullets:
+        ax.text(x + 24, y_b, "▸ " + b, fontsize=20, color=WHITE, ha="left", va="top")
+        y_b -= 28
     return y - h
 
-def save_slide(fig, name):
-    path = OUT_DIR / f"{name}.png"
-    fig.savefig(path, facecolor=DARK_BG, bbox_inches="tight", pad_inches=0)
+def section_title(ax, x, y, text, color=ACCENT):
+    ax.text(x, y, text, fontsize=22, color=color, weight="bold", ha="left", va="top")
+    return y - 30
+
+def save(fig, name):
+    fig.savefig(OUT_DIR / f"{name}.png", facecolor=DARK, bbox_inches="tight", pad_inches=0)
     plt.close(fig)
-    print(f"[OK] {path}")
+    print(f"[OK] {name}.png")
 
 # ============================================================
-# SLIDE 1 : Couverture
+# SLIDE 1 : COUVERTURE
 # ============================================================
 fig, ax = new_fig()
-ax.text(50, 75, "Prototype SLM Droit comptable\net fiscal Algerien", fontsize=52, color=WHITE, weight="bold", ha="center", va="center")
-ax.text(50, 58, "Comptable-SLM — RAG + SLM fine-tune", fontsize=26, color=ACCENT, ha="center", va="center")
-ax.text(50, 48, "100% droit algerien  |  125 Q&A curees  |  37/37 tests", fontsize=22, color=GRAY, ha="center", va="center")
-ax.text(50, 32, "https://comptable-slm-1.onrender.com", fontsize=22, color=ACCENT2, weight="bold", ha="center", va="center")
-ax.text(50, 22, "#Comptabilite #Algerie #IA #SCF #Audit #SLM #RAG", fontsize=18, color=GRAY, ha="center", va="center")
-save_slide(fig, "01_couverture")
+ax.text(50, 72, "Prototype SLM", fontsize=58, color=WHITE, weight="bold", ha="center")
+ax.text(50, 60, "Droit comptable & fiscal\nAlgérien", fontsize=40, color=ACCENT, ha="center", linespacing=1.3)
+ax.text(50, 44, "Comptable-SLM", fontsize=24, color=MUTED, ha="center")
+ax.text(50, 38, "RAG + SLM fine-tuné  |  100% droit algérien", fontsize=22, color=MUTED, ha="center")
+ax.text(50, 28, "https://comptable-slm-1.onrender.com", fontsize=24, color=ACCENT2, weight="bold", ha="center")
+ax.text(50, 18, "#Comptabilité #Algérie #IA #SCF #Audit #SLM #RAG", fontsize=18, color=MUTED, ha="center")
+save(fig, "01_couverture")
 
 # ============================================================
-# SLIDE 2 : Le probleme
+# SLIDE 2 : PROBLÈME
 # ============================================================
 fig, ax = new_fig()
-ax.text(50, 92, "Le probleme : Les LLM hallucinent\nsur le droit algerien", fontsize=42, color="#ef4444", weight="bold", ha="center")
+ax.text(50, 90, "Le problème", fontsize=48, color=RED, weight="bold", ha="center")
+ax.text(50, 82, "Les LLM généralistes hallucinent sur le droit algérien", fontsize=24, color=MUTED, ha="center")
 
-items = [
-    "TVA 19/9/0% -> reponses francaises",
-    "SCF (loi 07-11) vs ancien PCN -> confusion",
-    "Comptes TVA 4455/4456/4457 -> inconnus",
-    "CNAS 7% / CASNOS 15% -> melanges ou inventes",
-    "IBS 19% uniforme, IRG bareme 2024 -> baremes etrangers",
-    "SARL/EURL/SPA, commissaire aux comptes -> regles francaises",
+problems = [
+    ("TVA 19/9/0%", "→ Réponses françaises"),
+    ("SCF (loi 07-11) vs PCN", "→ Confusion"),
+    ("Comptes TVA 4455/4456/4457", "→ Inconnus"),
+    ("CNAS 7% / CASNOS 15%", "→ Mélangés ou inventés"),
+    ("IBS 19% / IRG barème 2024", "→ Barèmes étrangers"),
+    ("SARL / EURL / SPA", "→ Règles françaises"),
 ]
-add_bullet_list(ax, 15, 80, items, fontsize=24, bullet_color="#ef4444", spacing=1.5)
 
-ax.text(50, 15, "ChatGPT, Claude... ne connaissent pas le droit comptable algerien",
-        fontsize=20, color=GRAY, ha="center", va="bottom")
-save_slide(fig, "02_probleme")
+y = 72
+for topic, issue in problems:
+    card(ax, 10, y, 80, 28, topic, [issue], title_color=RED, radius=8)
+    y -= 30
+
+ax.text(50, 8, "ChatGPT, Claude... ne connaissent pas le droit comptable algérien",
+        fontsize=20, color=MUTED, ha="center", va="bottom")
+save(fig, "02_probleme")
 
 # ============================================================
-# SLIDE 3 : La solution
+# SLIDE 3 : SOLUTION (RAG + SLM)
 # ============================================================
 fig, ax = new_fig()
-ax.text(50, 92, "La solution : Comptable-SLM", fontsize=44, color=GREEN, weight="bold", ha="center")
-ax.text(50, 84, "RAG + SLM fine-tune 100% droit algerien", fontsize=26, color=ACCENT, ha="center")
+ax.text(50, 90, "La solution : Comptable-SLM", fontsize=46, color=GREEN, weight="bold", ha="center")
+ax.text(50, 84, "RAG + SLM fine-tuné — 100% droit algérien", fontsize=24, color=ACCENT, ha="center")
 
-# RAG card
-add_card(ax, 8, 78, 42, 30, "[RAG] Pipeline RAG", [
-    "Embeddings : NVIDIA Nemotron-3-Embed-1B (NIM)",
+# RAG
+card(ax, 10, 78, 38, 38, "[RAG] Pipeline RAG", [
+    "Embeddings : Nemotron-3-Embed-1B (NIM)",
     "Vector store : ChromaDB (cosinus, persistant)",
-    "7 fichiers KB -> 534 chunks (section-based)",
-    "TOP_K=4, seuil distance < 0.6",
-    "Contexte injecte dans le prompt LLM",
+    "7 fichiers KB → 534 chunks (section-based)",
+    "TOP_K=4, seuil < 0.6",
+    "Contexte injecté dans le prompt LLM",
 ], title_color=ACCENT)
 
-# SLM card
-add_card(ax, 52, 78, 42, 30, "[SLM] Modele local", [
+# SLM
+card(ax, 52, 78, 38, 38, "[SLM] Modèle local", [
     "Base : Llama 3.2 3B",
     "Fine-tune : Unsloth + QLoRA (4-bit)",
-    "Dataset : 150 exemples algeriens (SCF)",
-    "Export : GGUF -> Ollama (offline)",
-    "Loss : 1.89 -> 0.03",
+    "Dataset : 150 ex. algériens (SCF)",
+    "Export : GGUF → Ollama (offline)",
+    "Loss : 1.89 → 0.03",
 ], title_color=ACCENT2)
 
 # Flux
-ax.text(50, 38, "Question -> RAG (recherche loi SCF, code fiscal...)\n      -> Contexte + Question -> LLM\n      -> Reponse precise avec sources",
-        fontsize=22, color=WHITE, ha="center", va="center")
+ax.text(50, 36, "Question → RAG (loi SCF, code fiscal...)", fontsize=22, color=WHITE, ha="center")
+ax.text(50, 31, "→ Contexte + Question → LLM", fontsize=22, color=WHITE, ha="center")
+ax.text(50, 26, "→ Réponse précise avec sources", fontsize=22, color=WHITE, ha="center")
 
-items = [
-    "TF-IDF word-level accent-insensitive (deductible = deductible)",
-    "Reponses sourcees  |  Fallback intelligent (pas d'hallucination)",
-]
-add_bullet_list(ax, 15, 25, items, fontsize=20, bullet_color=ACCENT, spacing=1.5)
-save_slide(fig, "03_solution")
+ax.text(50, 16, "TF-IDF word-level accent-insensitive  |  Réponses sourcées  |  Fallback intelligent",
+        fontsize=18, color=MUTED, ha="center")
+save(fig, "03_solution")
 
 # ============================================================
-# SLIDE 4 : Ce qu'il maitrise (6 domaines)
+# SLIDE 4 : 6 DOMAINES MAÎTRISÉS
 # ============================================================
 fig, ax = new_fig()
-ax.text(50, 92, "Ce qu'il maitrise — 6 domaines cles", fontsize=42, color=ACCENT, weight="bold", ha="center")
+ax.text(50, 90, "Ce qu'il maîtrise — 6 domaines clés", fontsize=44, color=ACCENT, weight="bold", ha="center")
 
 domains = [
-    ("[TVA] TVA", ["Taux 19/9/0%", "Comptes 4455/4456/4457", "Declaration", "Ecritures achat/vente"]),
-    ("[IBS] IBS / IRG", ["IBS 19% uniforme", "Calcul + acomptes", "IRG bareme 2024", "Retenue source compte 4431"]),
-    ("[SOC] Charges sociales", ["CNAS 7%", "CASNOS 15%", "Allocations familiales", "Conges payes 30j"]),
-    ("[LAW] Formes juridiques", ["SARL/EURL/SPA/SNC", "Capital 100k DA", "Registre commerce"]),
-    ("[SCALE] Audit", ["Normes ISA", "Commissaire aux comptes", "Obligations"]),
-    ("[WRITE] Ecritures / Procedures", ["Achat/vente TVA", "Amortissement", "Provision", "Calendrier fiscal", "Cloture exercice"]),
+    ("TVA", ["Taux 19/9/0%", "Comptes 4455/4456/4457", "Déclaration", "Écritures achat/vente"], ACCENT),
+    ("IBS / IRG", ["IBS 19% uniforme", "Calcul + acomptes", "IRG barème 2024", "Retenue source 4431"], ACCENT2),
+    ("Charges sociales", ["CNAS 7%", "CASNOS 15%", "Allocations familiales", "Congés payés 30j"], GREEN),
+    ("Formes juridiques", ["SARL / EURL / SPA / SNC", "Capital 100k DA", "Registre commerce"], "#f97316"),
+    ("Audit", ["Normes ISA", "Commissaire aux comptes", "Obligations CAC"], "#a855f7"),
+    ("Écritures / Procédures", ["Achat/vente TVA", "Amortissement / Provision", "Calendrier fiscal", "Clôture / Rapprochement"], "#ec4899"),
 ]
 
 y = 82
-for title, items in domains:
-    add_card(ax, 8, y, 84, 10, title, items[:3] + (["..."] if len(items) > 3 else []), title_color=ACCENT2)
-    y -= 11
+for title, items, color in domains:
+    card(ax, 10, y, 80, 16, title, items[:3], title_color=color)
+    y -= 18
 
-ax.text(50, 10, "Tests : 37/37 reponses pertinentes",
-        fontsize=20, color=GREEN, weight="bold", ha="center", va="bottom")
-save_slide(fig, "04_domaines")
+ax.text(50, 6, "Tests : 37/37 réponses pertinentes", fontsize=22, color=GREEN, weight="bold", ha="center")
+save(fig, "04_domaines")
 
 # ============================================================
-# SLIDE 5 : Resultats tests
+# SLIDE 5 : RÉSULTATS TESTS
 # ============================================================
 fig, ax = new_fig()
-ax.text(50, 92, "Resultats : 37/37 tests reussis", fontsize=44, color=GREEN, weight="bold", ha="center")
+ax.text(50, 90, "Résultats : 37/37 tests ✅", fontsize=44, color=GREEN, weight="bold", ha="center")
 
-test_items = [
-    ("[OK] TVA", ["taux 19/9/0%", "deductible", "collectee", "declaration", "comptes 4455/6/7"]),
-    ("[OK] IBS / IRG", ["IBS 19%", "calcul", "bareme IRG 2024", "compte 4431"]),
-    ("[OK] Charges sociales", ["CNAS 7%", "CASNOS 15%", "allocations", "conges payes"]),
-    ("[OK] Formes juridiques", ["SARL vs EURL", "capital 100k", "CAC"]),
-    ("[OK] Audit", ["normes ISA", "CAC obligations", "registre commerce"]),
-    ("[OK] Ecritures", ["achat TVA 19%", "amortissement", "provision"]),
-    ("[OK] Procedures", ["calendrier fiscal", "cloture", "rapprochement bancaire"]),
+results = [
+    ("TVA", ["taux 19/9/0%", "déductible", "collectée", "déclaration", "comptes 4455/6/7"]),
+    ("IBS / IRG", ["IBS 19%", "calcul + acomptes", "barème IRG 2024", "compte 4431"]),
+    ("Charges sociales", ["CNAS 7%", "CASNOS 15%", "allocations", "congés payés"]),
+    ("Formes juridiques", ["SARL vs EURL", "capital 100k", "CAC"]),
+    ("Audit", ["normes ISA", "CAC obligations", "registre commerce"]),
+    ("Écritures", ["achat TVA 19%", "amortissement", "provision"]),
+    ("Procédures", ["calendrier fiscal", "clôture", "rapprochement bancaire"]),
 ]
 
 y = 80
-for title, items in test_items:
-    add_card(ax, 8, y, 84, 8, title, items, title_color=GREEN)
-    y -= 9.5
+for title, items in results:
+    card(ax, 10, y, 80, 9, title, items, title_color=GREEN)
+    y -= 10.5
 
-ax.text(50, 12, "Matching robuste : TF-IDF word-level, accents normalises, bonus titre, seuil 0.15",
-        fontsize=18, color=GRAY, ha="center", va="bottom")
-save_slide(fig, "05_resultats")
+ax.text(50, 8, "Matching : TF-IDF word-level  +  accents normalisés  +  bonus titre  +  seuil 0.15",
+        fontsize=17, color=MUTED, ha="center")
+save(fig, "05_resultats")
 
 # ============================================================
-# SLIDE 6 : Demo en ligne
+# SLIDE 6 : DÉMO EN LIGNE
 # ============================================================
 fig, ax = new_fig()
-ax.text(50, 92, "Demo en ligne — Lien permanent", fontsize=44, color=ACCENT, weight="bold", ha="center")
+ax.text(50, 90, "Démo en ligne — Lien permanent", fontsize=44, color=ACCENT, weight="bold", ha="center")
 
-ax.text(50, 78, "https://comptable-slm-1.onrender.com", fontsize=36, color=ACCENT2, weight="bold", ha="center")
+ax.text(50, 80, "https://comptable-slm-1.onrender.com", fontsize=34, color=ACCENT2, weight="bold", ha="center")
 
-add_card(ax, 15, 68, 70, 30, "Interface Gradio ChatInterface", [
-    "Questions libres en francais",
-    "12 exemples pre-charges",
-    "Reponses instantanees (< 1s)",
-    "Sources citees automatiquement",
-    "Fallback intelligent si pas de reponse",
-    "Theme « soft » agreable",
+card(ax, 10, 70, 80, 36, "[UI] Interface Gradio ChatInterface", [
+    "▸ Questions libres en français",
+    "▸ 12 exemples pré-chargés",
+    "▸ Réponses instantanées (< 1s)",
+    "▸ Sources citées automatiquement",
+    "▸ Fallback intelligent (pas d'hallucination)",
+    "▸ Thème « soft » agréable",
 ], title_color=ACCENT)
 
-ax.text(50, 30, "Heberge sur Render (Free tier)\nLien permanent — partageable sur LinkedIn",
-        fontsize=22, color=GRAY, ha="center", va="center")
+ax.text(50, 28, "Hébergé sur Render (Free tier)  —  Lien permanent partageable",
+        fontsize=20, color=MUTED, ha="center")
 
-ax.text(50, 18, 'Testez : "Quels sont les taux de TVA en Algerie ?"\nou "Difference entre SARL et EURL ?"',
-        fontsize=22, color=ACCENT2, ha="center", va="bottom")
-save_slide(fig, "06_demo")
+ax.text(50, 16, 'Testez : "Quels sont les taux de TVA en Algérie ?"  ou  "Différence SARL / EURL ?"',
+        fontsize=20, color=ACCENT2, ha="center")
+save(fig, "06_demo")
 
 # ============================================================
-# SLIDE 7 : Cloture
+# SLIDE 7 : CLÔTURE
 # ============================================================
 fig, ax = new_fig()
-ax.text(50, 80, '"L IA doit servir les professionnels\nalgeriens, pas l inverse."', fontsize=40, color=WHITE, weight="bold", ha="center", style="italic")
 
-ax.text(50, 65, "— Expert-comptable & Auditeur legal (15+ ans) | Dev IA", fontsize=22, color=GRAY, ha="center")
+ax.text(50, 80, '"L\'IA doit servir les professionnels\nalgériens, pas l\'inverse."', fontsize=38, color=WHITE, weight="bold", ha="center", linespacing=1.4)
 
-ax.text(50, 50, "Public cible :", fontsize=26, color=ACCENT, weight="bold", ha="center")
-ax.text(50, 43, "Experts-comptables, Commissaires aux comptes, Comptables agrees,\nEtudiants, Cabinets d'audit algeriens",
-        fontsize=22, color=WHITE, ha="center")
+ax.text(50, 64, "— Expert-comptable & Auditeur légal (15+ ans)  |  Développeur IA", fontsize=20, color=MUTED, ha="center")
 
-ax.text(50, 30, "Code : github.com/djoudibouda-alt/comptable-slm", fontsize=22, color=GRAY, ha="center")
-ax.text(50, 24, "Demo : https://comptable-slm-1.onrender.com", fontsize=22, color=ACCENT2, weight="bold", ha="center")
+ax.text(50, 54, "Public cible", fontsize=28, color=ACCENT, weight="bold", ha="center")
+ax.text(50, 48, "Experts-comptables  •  Commissaires aux comptes  •  Comptables agréés\nÉtudiants  •  Cabinets d'audit algériens", fontsize=20, color=WHITE, ha="center", linespacing=1.5)
 
-ax.text(50, 12, "#Comptabilite #Algerie #IA #SCF #Audit #TVA #IBS #IRG #CNAS #CASNOS #SLM #RAG",
-        fontsize=18, color=GRAY, ha="center", va="bottom")
-save_slide(fig, "07_cloture")
+ax.text(50, 36, "Démo : https://comptable-slm-1.onrender.com", fontsize=22, color=ACCENT2, weight="bold", ha="center")
+ax.text(50, 30, "Code  : github.com/djoudibouda-alt/comptable-slm", fontsize=20, color=MUTED, ha="center")
 
-print(f"\n[Done] 7 slides generees dans {OUT_DIR}/")
+ax.text(50, 16, "#Comptabilité #Algérie #IA #SCF #Audit #TVA #IBS #IRG #CNAS #CASNOS #SLM #RAG",
+        fontsize=18, color=MUTED, ha="center", va="bottom")
+save(fig, "07_cloture")
+
+print("\n[Done] 7 slides générées")
