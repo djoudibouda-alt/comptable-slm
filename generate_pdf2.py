@@ -1,29 +1,24 @@
 #!/usr/bin/env python3
 """
-Génère un PDF multipage avec PIL directement (plus fiable).
+Génère le PDF combiné (carrousel LinkedIn) à partir des PDFs individuels.
+Usage: python generate_pdf2.py
 """
-from PIL import Image
 from pathlib import Path
+import fitz  # PyMuPDF
 
 OUT_DIR = Path("slides")
-OUT_PDF = Path("Comptable_SLM_Slides.pdf")
+OUT_PDF = Path("Comptable_SLM_Slides_Carousel.pdf")
 
-slide_files = sorted(OUT_DIR.glob("*.png"))
+slide_files = sorted(OUT_DIR.glob("*.pdf"))
 
-# Charger toutes les images en RGB
-images = []
-for img_path in slide_files:
-    img = Image.open(img_path).convert("RGB")
-    images.append(img)
+doc = fitz.open()
+for pdf_path in slide_files:
+    src = fitz.open(pdf_path)
+    doc.insert_pdf(src)
+    src.close()
 
-# Sauvegarder en PDF multipage
-images[0].save(
-    OUT_PDF,
-    save_all=True,
-    append_images=images[1:],
-    resolution=150,
-    quality=95
-)
+doc.save(OUT_PDF)
+doc.close()
 
-print(f"[OK] PDF genere : {OUT_PDF} ({len(images)} pages)")
+print(f"[OK] PDF combiné : {OUT_PDF} ({len(slide_files)} pages)")
 print(f"Taille : {OUT_PDF.stat().st_size / 1024:.0f} KB")
